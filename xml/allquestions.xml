@@ -1,0 +1,3725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 sp2 (http://www.altova.com) by admin (EMBRACE) -->
+<dataroot generated="2006-01-23T22:08:26">
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq1</qID>
+		<qText>Which rectifier uses four diodes?"</qText>
+		<option1>Half wave</option1>
+		<option2>Centre tapped full wave</option2>
+		<option3>Full Wave Bridge </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq2</qID>
+		<qText>The PIV ofn the centre tapped full wave rectifier is</qText>
+		<option1>Vm</option1>
+		<option2> 0.5 Vm</option2>
+		<option3>2Vm</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq3</qID>
+		<qText>Ripple factor of a bridge rectifier is</qText>
+		<option1>0.48</option1>
+		<option2>1.21</option2>
+		<option3>0 .81</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq4</qID>
+		<qText>The primary function of the filter in regulated power supply is to</qText>
+		<option1>Remove dc</option1>
+		<option2>Remove ac component</option2>
+		<option3>Stabilize dc output</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq5</qID>
+		<qText>Excessive hum in a power supply could be due to</qText>
+		<option1>Open filter choke</option1>
+		<option2>Capacitor</option2>
+		<option3>Defective rectifier</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq6</qID>
+		<qText>The filter circuit that is effective for very large value of load resistance is</qText>
+		<option1>Capacitor filter</option1>
+		<option2>Inductor filter</option2>
+		<option3>Choke input LC filter</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq7</qID>
+		<qText>Unit RC is </qText>
+		<option1>Joule</option1>
+		<option2>watt</option2>
+		<option3>Second</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq8</qID>
+		<qText>A Zener diode used as a</qText>
+		<option1>Shunt regulator</option1>
+		<option2>Series regulator</option2>
+		<option3>Either of a or b above</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq9</qID>
+		<qText>Which stage if regulated supply uses a zener diode as its main component?</qText>
+		<option1>Rectifier</option1>
+		<option2>Filter</option2>
+		<option3>regulator</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq10</qID>
+		<qText>The output voltage at no load in an UPS is the same as its output voltage at the related load current. Its internal resistance is therefore</qText>
+		<option1>Extremely small</option1>
+		<option2>Zero</option2>
+		<option3>Infinite</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq11</qID>
+		<qText>An ideal power supply is characterized by</qText>
+		<option1>Very large output resistance</option1>
+		<option2>Very small output resistance</option2>
+		<option3>Zero internal resistance</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq12</qID>
+		<qText>When VN is the no load voltage anf VL is the voltage and load , then regulation is given by</qText>
+		<option1>VN-VL / Vn+ VLl x 100</option1>
+		<option2>VN-Vl/VN x 100</option2>
+		<option3>VN-VL/ VL x 100 </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq13</qID>
+		<qText>Percentage regulation of an ideal power supply is</qText>
+		<option1>100%</option1>
+		<option2>0%</option2>
+		<option3>1%</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq14</qID>
+		<qText>The dc output voltage from 48 V with no load 46V at full load, The percentage load regulation is</qText>
+		<option1>1.05%</option1>
+		<option2>2.2%</option2>
+		<option3>4.2%</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq15</qID>
+		<qText>The reason for using an emitter bypass capacitor in the CE amplifier circuit is to</qText>
+		<option1>Keep emitter at ac ground</option1>
+		<option2>Prevent excessive degeneration</option2>
+		<option3>Bypass low frequency components</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq16</qID>
+		<qText>Amplifiers should have</qText>
+		<option1>A high fidelity</option1>
+		<option2>Low noise</option2>
+		<option3>All of the above</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq17</qID>
+		<qText>The dc load line foe a transistor is drawn between its</qText>
+		<option1>Cutoff point and saturation point</option1>
+		<option2>Saturation point and knee point</option2>
+		<option3>Cutoff point and breakdown point</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq18</qID>
+		<qText>Zero signal collector and collector to emitter voltage is called</qText>
+		<option1>Q point</option1>
+		<option2>Operation point</option2>
+		<option3>All of the above</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq19</qID>
+		<qText>If the operating point of NPN transistor amplifier is elected in saturation region, it is likely to result in</qText>
+		<option1>Thermal runaway of transistor</option1>
+		<option2>Clipping of output io the positive half of the input signal</option2>
+		<option3>Need for high dc collector supply</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq20</qID>
+		<qText>Which of the three bipolar transistor configuration provides the lowest power gain?</qText>
+		<option1>CE</option1>
+		<option2>CB</option2>
+		<option3>CC</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq21</qID>
+		<qText>Which component o RC coupled amplifier is mainly responsible for the fall of gain in low frequency range</qText>
+		<option1>Transistor</option1>
+		<option2>Coupling capacitor</option2>
+		<option3>Grid leak resistor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq22</qID>
+		<qText>The voltage gain of an emitter follower is </qText>
+		<option1>More than its current gain</option1>
+		<option2>Greater than or equal to unity</option2>
+		<option3>Less than or equal to unity</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq23</qID>
+		<qText>The main use of an emitter follower is an </qText>
+		<option1>Power amplifier</option1>
+		<option2>none of these</option2>
+		<option3>Follower of base signal </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq24</qID>
+		<qText>A transistor amplifier with 85% efficiency is likely to be</qText>
+		<option1>Class A</option1>
+		<option2>Class B</option2>
+		<option3>Class AC</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq25</qID>
+		<qText>Which of the following types of amplifiers can correspond to half wave rectifier?</qText>
+		<option1>Class A amplifier</option1>
+		<option2>Class B Amplifier</option2>
+		<option3>Class C Amplifier</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq26</qID>
+		<qText>Class A amplifier operates essentially over __ portion of it characteristics</qText>
+		<option1>Linear</option1>
+		<option2>Nonlinear</option2>
+		<option3>Constant current</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq27</qID>
+		<qText>In Class c amplifier full cycle conduction of the current is achieved by employing </qText>
+		<option1>Transformers</option1>
+		<option2>Push pull configuration</option2>
+		<option3>Tuned circuit</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq28</qID>
+		<qText>Push-pull amplifiers offer</qText>
+		<option1>More distortion and more output power</option1>
+		<option2>Less distortion and more output power</option2>
+		<option3>More distortion and less output power</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq29</qID>
+		<qText>A push-pull amplifier balances out</qText>
+		<option1>Even harmonics</option1>
+		<option2>Odd harmonics</option2>
+		<option3>Both even and odd harmonics</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq30</qID>
+		<qText>Class A power amplifier as compared to the Class B amplifier</qText>
+		<option1>HAVE more  efficiency’</option1>
+		<option2>Are not susceptible to power supply</option2>
+		<option3>Offer less distortion</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq31</qID>
+		<qText>Class B and Class C amplifiers are extensively used respectively in</qText>
+		<option1>Tuned and timed amplifiers</option1>
+		<option2>Untuned and tuned amplifiers</option2>
+		<option3>Timed and tuned amplifiers</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq32</qID>
+		<qText>Class A amplifier is used when</qText>
+		<option1>Minimum distortion is desired</option1>
+		<option2>Highest voltage gain is required</option2>
+		<option3>Dc voltages are to be amplified</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq33</qID>
+		<qText>For large signals Class A amplifier is usually biased</qText>
+		<option1>just cutoff</option1>
+		<option2>Well into saturation</option2>
+		<option3>So that VC can swing equal distances either side  of Q point</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq34</qID>
+		<qText>A class B single ended amplifier is useful because</qText>
+		<option1>A class B single ended amplifier is useful because</option1>
+		<option2>Input signal is amplified linearly</option2>
+		<option3>Effiencey is very high</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq35</qID>
+		<qText>For harmonic generation _ amplifier is used</qText>
+		<option1>Class C tuned</option1>
+		<option2>Class A</option2>
+		<option3>Class B</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq36</qID>
+		<qText>A class B amplifier is biased</qText>
+		<option1>Just at cutoff</option1>
+		<option2>Nearly twice cutoff</option2>
+		<option3>Four times cutoff</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq37</qID>
+		<qText>Complementary symmetry push pulls amplifier uses</qText>
+		<option1>Npn transistor only</option1>
+		<option2>Pnp transistor only</option2>
+		<option3>Pnp transistor only</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq38</qID>
+		<qText>Negative fee back is used in audio amplifiers to</qText>
+		<option1>Non-lnearty in active device</option1>
+		<option2>reduce distortion</option2>
+		<option3>Defective active device</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq39</qID>
+		<qText>Negative feedback is used in audio amplifier to</qText>
+		<option1>Operates class C</option1>
+		<option2>Reduce distortion</option2>
+		<option3>Increase distortion</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq40</qID>
+		<qText>The large signal band width of an opamp is limited by tis </qText>
+		<option1>Slew rate specification</option1>
+		<option2>Unity gain cross over frequency specification</option2>
+		<option3>MRR specification</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq41</qID>
+		<qText>The slew rate specification of an opamp as usually measured in</qText>
+		<option1>Microvolt per seconds</option1>
+		<option2>Volts per microseconds</option2>
+		<option3>Decibels</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq42</qID>
+		<qText>Feedback in the amplifier always helps to</qText>
+		<option1>Control its output</option1>
+		<option2>Increase the gain</option2>
+		<option3>Decrease its input independence</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq43</qID>
+		<qText>Closed loop gain of a feedback amplifier is the gain obtained when</qText>
+		<option1> Its output terminals are closed</option1>
+		<option2>Feedback loop is closed</option2>
+		<option3>Negative feedback is applied</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq44</qID>
+		<qText>Negative feedback in an amplifier</qText>
+		<option1>Lowers it 3db frequency</option1>
+		<option2>Increases its 3db frequency</option2>
+		<option3>Increase band width</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq45</qID>
+		<qText>With regard to negative feedback amplifiers, which statement wrong</qText>
+		<option1>Increase the bandwidth</option1>
+		<option2>Increase the input impedance</option2>
+		<option3>Increase the gain band width product</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq46</qID>
+		<qText>Positive feedback is the sane as</qText>
+		<option1>Frequency synthesis</option1>
+		<option2>regeneration</option2>
+		<option3>degeneration</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq47</qID>
+		<qText>The oscillator circuit that uses a tapped coil in the tuned circuit is </qText>
+		<option1>Hartley oscillator</option1>
+		<option2>Colpitts oscillator</option2>
+		<option3>Clap oscillator</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq48</qID>
+		<qText>The gain of the amplifier is 10 without feedback for sustained oscillations, the value of feedback factor beta should be</qText>
+		<option1>10</option1>
+		<option2>-0,1</option2>
+		<option3>0.1</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq49</qID>
+		<qText>Oscillators have</qText>
+		<option1>No feedback</option1>
+		<option2>Negative feedback</option2>
+		<option3>Positive feedback</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq50</qID>
+		<qText>When positive feedback amplifiers are used as oscillators, the condition Aberta=1 is known as</qText>
+		<option1>Barkhausen criterion of oscillation</option1>
+		<option2>parkunison criterion of oscillation</option2>
+		<option3>Positive criterion of oscillation</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq51</qID>
+		<qText>For oscillation to start, the loop gain A beta of the oscillator must be</qText>
+		<option1>Infinitely high</option1>
+		<option2>More than one</option2>
+		<option3>Exactly one</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq52</qID>
+		<qText>Under which of the following conditions an oscillator can stop oscillating</qText>
+		<option1>Increase in transistor gain</option1>
+		<option2>Reduction in transistor gain</option2>
+		<option3>Elimination of triggered gain</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq53</qID>
+		<qText>Frequency stability in an oscillator can be achieved by</qText>
+		<option1>Adjusting the phase shift</option1>
+		<option2>Controlling its gain</option2>
+		<option3>Incorporating a tuned circuit</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq54</qID>
+		<qText>Gain stability in an oscillator can be achieved by</qText>
+		<option1>Adjusting the phase circuit</option1>
+		<option2>Employing automatic biasing</option2>
+		<option3>Incorporating a tuned gain</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq55</qID>
+		<qText>An oscillator will stop oscillation if</qText>
+		<option1>Using low Q circuits</option1>
+		<option2>Incorporating a tuned circuit</option2>
+		<option3>Using negative feedback</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq56</qID>
+		<qText>Which of the following oscillators has best frequency stabiltty?</qText>
+		<option1>Clap oscillator</option1>
+		<option2>Crystal oscillator</option2>
+		<option3>Phase shift oscillator</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq57</qID>
+		<qText>In every practical oscillator the loop gain is </qText>
+		<option1>Slightly larger than unity</option1>
+		<option2> Equal to unity</option2>
+		<option3>Slightly lower than unity</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq58</qID>
+		<qText>Wein bridge oscillator is most often used whenever</qText>
+		<option1>Wider range of high purity sine wave is to be generated</option1>
+		<option2>High feedback ratio is needed</option2>
+		<option3>Square output waves are required</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq59</qID>
+		<qText>To generate a 1 KHz note, the most suitable circuit is</qText>
+		<option1>Hartley oscillator</option1>
+		<option2>Colpitts oscillator</option2>
+		<option3>Wein bridge oscillator</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq60</qID>
+		<qText>A typical frequency for RC feedback oscillator is</qText>
+		<option1>1khz</option1>
+		<option2>100 MHz</option2>
+		<option3>1000 MHz</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq61</qID>
+		<qText>A Hartley oscillator circuits uses</qText>
+		<option1>Capacitive feedback</option1>
+		<option2>A tapped inductor</option2>
+		<option3>A tapped capacitor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq62</qID>
+		<qText>An oscillator using a capacitive voltage divider to provide feedback is</qText>
+		<option1>Hartley</option1>
+		<option2>colpitts</option2>
+		<option3>Multivibtrator</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq63</qID>
+		<qText>The Colpitts and Hartley circuits are examples of </qText>
+		<option1>Astable multivibrators</option1>
+		<option2>Class A bias</option2>
+		<option3>Sine-wave oscillators</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq64</qID>
+		<qText>A unique feature of astable multivibrators is that</qText>
+		<option1>It can bw synchronized to a range of input frequencies</option1>
+		<option2>Its frequency is perfectly stable when supply voltage is altered </option2>
+		<option3>Its output is a sine wave</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq65</qID>
+		<qText>A PLL is analogous to __ feedback control system</qText>
+		<option1>Positive</option1>
+		<option2>Negative</option2>
+		<option3>Both positive and negative</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq66</qID>
+		<qText>When the PLL is being used as a frequency multiplier, the output is taken from</qText>
+		<option1>The VCO input</option1>
+		<option2>The output of phase comparator</option2>
+		<option3>The VCO output</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq67</qID>
+		<qText>The important feature if a phase –locked loop is that </qText>
+		<option1>It provides a stable output frequency</option1>
+		<option2>Its output frequency will be locked to an input frequency</option2>
+		<option3>its output frequency can be determined by a crystal</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq68</qID>
+		<qText>The integrator, given a square wave input, wills generate</qText>
+		<option1>A sine wave</option1>
+		<option2>Other square wave</option2>
+		<option3>A saw-toothed of triangular wave</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Analog electronics</catName>
+		<catID>ae</catID>
+		<qID>aeq69</qID>
+		<qText>Which of the following circuits can ve used for converting a sine wave to a square wave</qText>
+		<option1>Schmitt trigger</option1>
+		<option2>Bistable multivibrator</option2>
+		<option3>Astable multivibrator</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq1</qID>
+		<qText>In semiconductors like silicon, the unit cell is</qText>
+		<option1>a simple cube</option1>
+		<option2>body-centered cube</option2>
+		<option3>hexagonal</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq2</qID>
+		<qText>The maximum number of electrons which the N-shell of an atom can contain is</qText>
+		<option1>32</option1>
+		<option2>18</option2>
+		<option3>8</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq3</qID>
+		<qText>The maximum number of electrons in the shell preceding the valence shell cannot exceed</qText>
+		<option1>32</option1>
+		<option2>8</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq4</qID>
+		<qText>Electronic distribution of an Si atom is</qText>
+		<option1>2,10,2</option1>
+		<option2>2,8,4</option2>
+		<option3>2,7,5               </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq5</qID>
+		<qText>The electrons in the atom of an element which determine its electrical and chemical properties are called .....electrons.</qText>
+		<option1>valence</option1>
+		<option2>excess</option2>
+		<option3>revolving </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq6</qID>
+		<qText>Silicon has Z = 14. Its outermost orbit is</qText>
+		<option1>partially filled</option1>
+		<option2>half filled</option2>
+		<option3>completely occupied</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq7</qID>
+		<qText>Semiconductor materials have .................bonds.</qText>
+		<option1>ionic</option1>
+		<option2>covalent</option2>
+		<option3>mutual </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq8</qID>
+		<qText>Major part of the current in an intrinsic semiconductor is due to</qText>
+		<option1>conduction-band electrons</option1>
+		<option2>valence-band electrons</option2>
+		<option3>holes in the valence band</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq9</qID>
+		<qText>Conduction electrons have more mobility than holes because they</qText>
+		<option1>are lighter</option1>
+		<option2>experience collisions less frequently</option2>
+		<option3>need less energy to move them</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq10</qID>
+		<qText>There is no hole current in good conductors because they</qText>
+		<option1>have overlapping valence and conduction bands</option1>
+		<option2>have large forbidden energy gap</option2>
+		<option3>have no valence band</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq11</qID>
+		<qText>In an N-type semiconductor, there are</qText>
+		<option1>no minority carriers</option1>
+		<option2>immobile negative ions</option2>
+		<option3>immobile positive ions</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq12</qID>
+		<qText>Doping materials are called impurities because they</qText>
+		<option1>alter the crystal structure of the pure semiconductors</option1>
+		<option2> make semiconductors less than 100 per cent pure</option2>
+		<option3>decrease the number of charge carriers</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq13</qID>
+		<qText>When germanium crystal is doped with phosphorus atoms, it becomes</qText>
+		<option1>N-type semiconductor</option1>
+		<option2>P-type semiconductor</option2>
+		<option3>photo-transistor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq14</qID>
+		<qText>In an P-type semiconductor material, majority carrier are</qText>
+		<option1>holes</option1>
+		<option2>electrons         </option2>
+		<option3>ions    </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq15</qID>
+		<qText>Electrons existing in the outermost s of an atom are called</qText>
+		<option1>stabilizing electrons</option1>
+		<option2>valence electrons</option2>
+		<option3>acceptors</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq16</qID>
+		<qText>The uppermost band is the</qText>
+		<option1>conduction band</option1>
+		<option2>Valence band</option2>
+		<option3>Forbidden band</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq17</qID>
+		<qText>The depletion region of a P-N junction is formed</qText>
+		<option1>during the manufacturing process</option1>
+		<option2>when forward bias is applied to it</option2>
+		<option3>under reverse bias</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq18</qID>
+		<qText>The width of the depletion layer of a junction</qText>
+		<option1>decreases with light doping</option1>
+		<option2> is increased under reverse bias</option2>
+		<option3>increases with heavy doping</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq19</qID>
+		<qText>Point out the WRONG statement. Barrier potential of a P-N junction is a function of</qText>
+		<option1>diode design     </option1>
+		<option2>forward bias</option2>
+		<option3>temperature </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq20</qID>
+		<qText>The width of the depletion region of an unbiased P-N junction is about a few</qText>
+		<option1>Micrometer</option1>
+		<option2>Millimeter</option2>
+		<option3>Centimeter</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq21</qID>
+		<qText>Zener breakdown occurs</qText>
+		<option1>mostly in germanium junctions</option1>
+		<option2>due to rupture of covalent bonds</option2>
+		<option3>in lightly-doped junctions</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq22</qID>
+		<qText>Avalanche breakdown is primarily dependent on the phenomenon of</qText>
+		<option1>collision </option1>
+		<option2>doping</option2>
+		<option3>ionization  </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq23</qID>
+		<qText>Reverse current in a silicon junction nearly doubles for every ............°C rise in temperature.</qText>
+		<option1>10</option1>
+		<option2>2</option2>
+		<option3>6</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq24</qID>
+		<qText>Diffusion capacitance of a P-N junction </qText>
+		<option1>less than its transition capacitance</option1>
+		<option2>essential for the design of varactors</option2>
+		<option3>problem for devices which are required to switch rapidly from forward to reverse bias</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq25</qID>
+		<qText>The depletion region of a semiconductor diode is due to</qText>
+		<option1>absence of current carriers</option1>
+		<option2>reverse-biasing</option2>
+		<option3>forward-biasing</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq26</qID>
+		<qText>When a P-N junction of a diode is forward-biased, diffusion current causes</qText>
+		<option1>covalent bonding</option1>
+		<option2>forward-biasing</option2>
+		<option3>establishment of barrier potential</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq27</qID>
+		<qText>The leakage current of semiconductor diode is caused by</qText>
+		<option1>chemical energy</option1>
+		<option2>barrier voltage</option2>
+		<option3>heat energy</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq28</qID>
+		<qText>An SC diode has -1.5 V on its anode and -2,5 on its cathode. The diode is</qText>
+		<option1>conducting</option1>
+		<option2>hot conducting</option2>
+		<option3>reverse biased</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq29</qID>
+		<qText>A general purpose diode is more likely to suffer avalanche breakdown rather than Zener breakdown because</qText>
+		<option1>its leakage current is small</option1>
+		<option2>it has weak covalent bonds</option2>
+		<option3> it is lightly-doped</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq30</qID>
+		<qText>The turn-on voltage of a Ge junction diode is nearly-volt.</qText>
+		<option1>0.7</option1>
+		<option2>0.3</option2>
+		<option3>0.1</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq31</qID>
+		<qText>The peak inverse voltage PIV is the maximum reverse voltage that can be applied to a diode without</qText>
+		<option1>burnout </option1>
+		<option2>destruction</option2>
+		<option3>overheating </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq32</qID>
+		<qText>Leakage current of a junction diode</qText>
+		<option1>decreases with temperature</option1>
+		<option2> is due to majority carriers</option2>
+		<option3>is in the range of mA or u,A</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq33</qID>
+		<qText>In the forward region of its characteristic, a diode appears as </qText>
+		<option1>an OFF switch</option1>
+		<option2>an ON switch</option2>
+		<option3>a capacitor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq34</qID>
+		<qText>Under small signal operation of a diode</qText>
+		<option1>its bulk resistance increases</option1>
+		<option2> its junction resistance predominates</option2>
+		<option3>it acts like a closed switch</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq35</qID>
+		<qText>Which of the following junction has least junction capacitance?</qText>
+		<option1>alloy </option1>
+		<option2>grown</option2>
+		<option3>point contact</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq36</qID>
+		<qText>A FET consists of a</qText>
+		<option1>source </option1>
+		<option2>drain</option2>
+		<option3> all </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq37</qID>
+		<qText>For small values of Base-source voltage  JFET behaves like a </qText>
+		<option1>resistor</option1>
+		<option2>constant-voltage source</option2>
+		<option3>negative resistance</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq38</qID>
+		<qText>In a JFET, the primary control on drain current is exerted by</qText>
+		<option1>reverse bias</option1>
+		<option2>size of depletion regions</option2>
+		<option3>channel-resistance</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq39</qID>
+		<qText>The value of Zener current is</qText>
+		<option1>limited by external circuit resistance</option1>
+		<option2> determined by Zener voltage</option2>
+		<option3>totally independent of temperature </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq40</qID>
+		<qText>When used in a circuit, the Zener diode is always</qText>
+		<option1>forward-biased</option1>
+		<option2>connected in series</option2>
+		<option3>reverse biased</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq41</qID>
+		<qText>Once a Zener diode goes into breakdown, its............. does not change much.</qText>
+		<option1>voltage</option1>
+		<option2>current</option2>
+		<option3>dynamic impedance</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq42</qID>
+		<qText>The main reason why electrons can tunnel through a P-N junction is that</qText>
+		<option1>they have high energy</option1>
+		<option2> barrier potential is very low</option2>
+		<option3>depletion layer is extremely thin</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq43</qID>
+		<qText>A tunnel diode is always biased</qText>
+		<option1>by dc source</option1>
+		<option2> in the middle of its negative resistance region</option2>
+		<option3>in the positive-resistance region nearest zero</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq44</qID>
+		<qText>The capacitance of a varactor diode can be changed by</qText>
+		<option1>increasing its doping level </option1>
+		<option2>changing its forward bias</option2>
+		<option3>changing the barrier potential.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq45</qID>
+		<qText>A PIN diode is frequently used as a</qText>
+		<option1>peak clipper</option1>
+		<option2>voltage regulator</option2>
+		<option3>switching diode for frequencies uptoGHz range</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq46</qID>
+		<qText>A step-recovery diode</qText>
+		<option1>has an extremely short recovery time</option1>
+		<option2>conducts equally well in both directions</option2>
+		<option3>is mainly used as a harmonic generator</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq47</qID>
+		<qText>A semiconductor device that resembles a voltage variable capacitor is known as ........... diode.</qText>
+		<option1>tunnel</option1>
+		<option2>varactor</option2>
+		<option3>Schottky                 </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq48</qID>
+		<qText>A semiconductor device that has only high energy electrons carriers is called............... diode.</qText>
+		<option1>tunnel</option1>
+		<option2>varactor</option2>
+		<option3>Schottky                 </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq49</qID>
+		<qText>A semiconductor device that has an intrinsic material between P and N materials is called................ diode.</qText>
+		<option1>Schottky</option1>
+		<option2>IMPATT</option2>
+		<option3>PIN</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq50</qID>
+		<qText>A semiconductor that operates in avalanche region is called the ............ diode.</qText>
+		<option1>gunn</option1>
+		<option2>IMPATT  </option2>
+		<option3> Schottky</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq51</qID>
+		<qText>When the reverse bias voltage of a varactor increases, its</qText>
+		<option1>depletion region decreases</option1>
+		<option2>capacitance decreases</option2>
+		<option3>leakage current increases</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq52</qID>
+		<qText>A semiconductor device which operates with a forward biased metal semiconductor junction is called............. diode.</qText>
+		<option1>Schottky</option1>
+		<option2>IMPATT</option2>
+		<option3>PIN</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq53</qID>
+		<qText>The color of the light emitted by LED depends on </qText>
+		<option1>The type of semiconductor material used </option1>
+		<option2>its forward bias </option2>
+		<option3>its reverse bias</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq54</qID>
+		<qText>Bulk tube photoconductive cells have </qText>
+		<option1>wide spectral response</option1>
+		<option2>small response time</option2>
+		<option3>high dark-t-light resistance ratio</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq55</qID>
+		<qText>Silicon is invariably used in the manufacturing of junction photodiodes because</qText>
+		<option1>more electron-hole pairs are generated in it</option1>
+		<option2>its thermally-generated minority current is extremely small</option2>
+		<option3>it needs less reverse bias </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq56</qID>
+		<qText>A pin photodiode has ultra fast response primarily due to</qText>
+		<option1>the presence of middle I-layer</option1>
+		<option2>heavy doping of P and N regions</option2>
+		<option3>its wide spectral response</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq57</qID>
+		<qText>The emitter of a transistor is generally doped the heaviest because it</qText>
+		<option1>has to dissipate maximum power</option1>
+		<option2>has to supply the charge carriers</option2>
+		<option3>is the first region of the transistor </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq58</qID>
+		<qText>For proper working of a transistor in normal circuits</qText>
+		<option1>EBJ is reverse-biased, CBJ forward-biased</option1>
+		<option2>CBJ is reverse-biased, EBJ is forward-biased</option2>
+		<option3>EBJ is forward-biased, CBJ is forward-biased</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq59</qID>
+		<qText>In a properly-biased NPN transistor, most of the electrons from the emitter </qText>
+		<option1>recombine with holes in the base </option1>
+		<option2>recombine in the emitter itself</option2>
+		<option3>pass through the base to the collector</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq60</qID>
+		<qText>When the E/B junction of a transistor is reverse-biased, collector current</qText>
+		<option1>is reversed</option1>
+		<option2>stops</option2>
+		<option3>increases</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq61</qID>
+		<qText>The EBJ of a given transistor is forward-biased and its CBJ reverse-biased. If the base current is increased, then its</qText>
+		<option1>IC will decrease</option1>
+		<option2>VCE will increase</option2>
+		<option3>IC will increase</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq62</qID>
+		<qText>First integrated circuit chip was developed by</qText>
+		<option1>C.V. Raman</option1>
+		<option2>W.H. Brattain</option2>
+		<option3>J.S. Kilby</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq63</qID>
+		<qText>An integrated circuit is </qText>
+		<option1>a complicated circuit</option1>
+		<option2>an integrating device</option2>
+		<option3>fabricated on a tiny silicon chip</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq64</qID>
+		<qText>Most important advantage of an IC is its</qText>
+		<option1>easy replacement in case of circuit failure</option1>
+		<option2>extremely high reliability </option2>
+		<option3>reduced cost</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq65</qID>
+		<qText>In monolithic Ics, all components are fabricated by …… process</qText>
+		<option1>evaporation</option1>
+		<option2>sputtering</option2>
+		<option3>diffusion</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq66</qID>
+		<qText>Monolithic Ics are fabricated with in a</qText>
+		<option1>soft stone</option1>
+		<option2>single stone</option2>
+		<option3>silicon layer</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq67</qID>
+		<qText>Monolithic technique is ideally suited for fabricating ….Ics</qText>
+		<option1>thin-film</option1>
+		<option2>digital</option2>
+		<option3>linear</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq68</qID>
+		<qText>In the context of IC fabrication, metallisation means</qText>
+		<option1>connecting metallic wires</option1>
+		<option2>forming interconnecting conduction pattern and bonding pads</option2>
+		<option3>depositing SiO2 layer</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq69</qID>
+		<qText>The major component of a MOS IC is an</qText>
+		<option1>FET</option1>
+		<option2>MOSFET</option2>
+		<option3>Bipolar</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq70</qID>
+		<qText>The three terminal of a bipolar junction transistor are called </qText>
+		<option1>PNP</option1>
+		<option2>NPN</option2>
+		<option3>base, emitter, collector</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq71</qID>
+		<qText>In pnp transistor, the p-region are</qText>
+		<option1>base and emitter</option1>
+		<option2>base and collector</option2>
+		<option3>emitter and collector</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq72</qID>
+		<qText>For operation as an amplifier, the base of an npn transistor must be </qText>
+		<option1>positive with respective to the emitter</option1>
+		<option2>negative with respective to the emitter</option2>
+		<option3>0 v</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq73</qID>
+		<qText>The emitter current is always </qText>
+		<option1>greater than the base current</option1>
+		<option2>greater than the collector current</option2>
+		<option3>Both</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq74</qID>
+		<qText>if Ic is 50 times larger than IB,then beta DC is</qText>
+		<option1>0.02</option1>
+		<option2>100</option2>
+		<option3>500</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq75</qID>
+		<qText>The bias condition for a transistor to be used as a linear amplifier is called</qText>
+		<option1>forward-bias</option1>
+		<option2>reverse-reverse</option2>
+		<option3>forward-forward</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq76</qID>
+		<qText>If the output of a transistor amplifier is 5 v rms and the input is 100m V rms, the voltage gain is </qText>
+		<option1>5</option1>
+		<option2>500</option2>
+		<option3>50</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq77</qID>
+		<qText>When operated in cutoff and saturation, the transistor acts like</qText>
+		<option1>a linear amplifier</option1>
+		<option2>a switch</option2>
+		<option3>a variable capacitor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq78</qID>
+		<qText>In saturation, VCE is </qText>
+		<option1>0.7 v </option1>
+		<option2>equal to Vcc </option2>
+		<option3>minimum</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq79</qID>
+		<qText>one in saturation, a further increase in base current will</qText>
+		<option1>cause the collector current o increase</option1>
+		<option2>not affect the collector current</option2>
+		<option3>turns the transistor off</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq80</qID>
+		<qText>If the base-emitter junction is open, the collector voltage is</qText>
+		<option1>Vcc</option1>
+		<option2>0v</option2>
+		<option3>floating</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq81</qID>
+		<qText>Every known element has</qText>
+		<option1>the same type of atoms </option1>
+		<option2>the same number of atoms</option2>
+		<option3>a unique type of atom        </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq82</qID>
+		<qText>The nucleus of an atom is made up of </qText>
+		<option1>protons and neutrons       </option1>
+		<option2> electrons </option2>
+		<option3> electrons and protons   </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq83</qID>
+		<qText>The atomic number of silicon is </qText>
+		<option1>8</option1>
+		<option2>2</option2>
+		<option3>14</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq84</qID>
+		<qText>A positive ion is formed when </qText>
+		<option1>a valence electron breaks away from the atom</option1>
+		<option2> there are more holes than electrons in the outer orbit</option2>
+		<option3> two atoms bond together</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq85</qID>
+		<qText>The most widely used semiconductive material  electronic devices is </qText>
+		<option1>germanium       </option1>
+		<option2>carbon    </option2>
+		<option3>Silicon</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq86</qID>
+		<qText>Recombination is when</qText>
+		<option1>an electron falls into a hole</option1>
+		<option2>a positive and a negative ion bond together</option2>
+		<option3>a valence electron becomes a conduction electron   </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq87</qID>
+		<qText>In a semiconductor crystal, the atoms are held together by</qText>
+		<option1>the interaction of valence electrons       </option1>
+		<option2>forces of attraction</option2>
+		<option3>Both</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq88</qID>
+		<qText>Each atom in a silicon crystal has</qText>
+		<option1>four valence electrons</option1>
+		<option2>four conduction electrons</option2>
+		<option3>eight valence electrons, four of its own and four shared</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq89</qID>
+		<qText>The current in a semiconductor is produced by </qText>
+		<option1>electrons only     </option1>
+		<option2>holes only       </option2>
+		<option3>both electrons and holes</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq90</qID>
+		<qText>The difference between an insulator and a semiconductor is</qText>
+		<option1>a wider energy gap between the valence band and the conduction band</option1>
+		<option2>the number of free electrons</option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq91</qID>
+		<qText>A trivalent impurity is added to silicon to create</qText>
+		<option1>germanium </option1>
+		<option2>a p-type semiconductor</option2>
+		<option3>an n-type semiconductor   </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq92</qID>
+		<qText>The majority carriers in an o-type semiconductor are</qText>
+		<option1>holes     </option1>
+		<option2>valence electrons   </option2>
+		<option3> conduction electrons   </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq93</qID>
+		<qText>A pnjunction is formed by </qText>
+		<option1>the recombination of electrons and holes</option1>
+		<option2>ionization</option2>
+		<option3>the boundary of ap-type and an n-type </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq94</qID>
+		<qText>The depletion region is created by </qText>
+		<option1>ionization     </option1>
+		<option2>diffusion       </option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq95</qID>
+		<qText>The depletion region consists of</qText>
+		<option1>nothing but minority carriers       </option1>
+		<option2>no majority carriers </option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq96</qID>
+		<qText>To forward-bias a diode,</qText>
+		<option1>an external voltage is applied that is positive at (he anode and negative at the cathode</option1>
+		<option2>an external voltage is applied that is positive at the p region and negative at the n region</option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq97</qID>
+		<qText>When a diode is forward-biased,</qText>
+		<option1>the only current is hole current,</option1>
+		<option2>the current is produced by both holes and electrons</option2>
+		<option3>the only current is electron current</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq98</qID>
+		<qText>When forward-biased, a diode</qText>
+		<option1>drops a large voltage</option1>
+		<option2>blocks current </option2>
+		<option3>has a high resistance       </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq99</qID>
+		<qText>For a silicon diode, the value of the forward-bias voltage typically</qText>
+		<option1>must be greater than 0.3 V </option1>
+		<option2>depends on the width of the depletion region</option2>
+		<option3>must be greater than 0.7 V</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq100</qID>
+		<qText>Although current is blocked in reverse bias,</qText>
+		<option1>there is some current due to majority carriers</option1>
+		<option2>there is a very small current due to minority carriers</option2>
+		<option3>there is an avalanche current 30. </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq1</qID>
+		<qText>The decimal system is composed of 10 __</qText>
+		<option1>numerals </option1>
+		<option2>Alphabets</option2>
+		<option3>operators</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq2</qID>
+		<qText>In the binary system, there are only two  possible digit values______</qText>
+		<option1>0 and 1</option1>
+		<option2>1 and 10</option2>
+		<option3>1 and 8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq3</qID>
+		<qText>This base-2 system can be used to represent any quantity that can be represented in _____</qText>
+		<option1>Binary</option1>
+		<option2>Octal </option2>
+		<option3>Decimal</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq4</qID>
+		<qText>In digital systems the information that is being processed is usually presented in _</qText>
+		<option1>decimal form</option1>
+		<option2>binary form</option2>
+		<option3>hexadecimal form</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq5</qID>
+		<qText>Any device that has only two operating states or possible conditions can represent _____</qText>
+		<option1>binary quantities</option1>
+		<option2>decimal quantities</option2>
+		<option3>hexadecimal Quantities</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq6</qID>
+		<qText>The__ number system has a base of eight, meaning that it has eight possible digits: 0, 1,2,3,4,5,6,7.</qText>
+		<option1>Decimal </option1>
+		<option2> octal</option2>
+		<option3>Binary</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq7</qID>
+		<qText>The hexadecimal system uses base _</qText>
+		<option1>8</option1>
+		<option2>2</option2>
+		<option3>16</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq8</qID>
+		<qText>____ uses the digits 0 through 9 plus the letters A, B, C, D, E, and F as the 16 digit symbols.</qText>
+		<option1>Decimal </option1>
+		<option2> octal</option2>
+		<option3>Binary</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq9</qID>
+		<qText>For Converting from one Number system form to another Number system form is called </qText>
+		<option1>Number system conversion</option1>
+		<option2>Octal Number System</option2>
+		<option3>Binar Number System</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq10</qID>
+		<qText>Convert decimal to binary method uses repeated division by _</qText>
+		<option1>2</option1>
+		<option2>4</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq11</qID>
+		<qText>Any binary number can be converted to its decimal equivalent simply by___together the weights of the various positions in the binary number</qText>
+		<option1>Substracting</option1>
+		<option2> summing </option2>
+		<option3>Multiplying</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq12</qID>
+		<qText>To convert hexadecimal number to its decimal equivalent ______ hexadecimal digit by its weight and then take sum of these products. </qText>
+		<option1>multiply</option1>
+		<option2>Substract</option2>
+		<option3>Divide</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq13</qID>
+		<qText>Each digit position in hexa decimal number corresponds to a power of </qText>
+		<option1>2</option1>
+		<option2>8</option2>
+		<option3>16</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq14</qID>
+		<qText>____ operation posses addition (+) of two binary numbers and output gives sum and carry.</qText>
+		<option1>Binary substraction</option1>
+		<option2>Binary Addition</option2>
+		<option3>Binary Multiplication</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq15</qID>
+		<qText>Binary subtraction posses’ subtraction (-) of binary numbers and output gives __</qText>
+		<option1>difference and barrow.</option1>
+		<option2>sum and carry.</option2>
+		<option3>product of numbers.</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq16</qID>
+		<qText>Binary Division posses Division ( / ) of  binary numbers and output gives</qText>
+		<option1>sum and carry.</option1>
+		<option2>product of numbers.</option2>
+		<option3> Quotient and reminder.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq17</qID>
+		<qText>___________- are codes, which are represented in binary system with modification from the original ones. </qText>
+		<option1>Hexadecimal codes</option1>
+		<option2>Binary codes</option2>
+		<option3>ASCII</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq18</qID>
+		<qText>The gray code belongs to a class of codes called____</qText>
+		<option1> minimum change codes</option1>
+		<option2>Binary codes</option2>
+		<option3>ASCII codes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq19</qID>
+		<qText>Gray code is also called a </qText>
+		<option1>Binary code</option1>
+		<option2>unit-distance code.</option2>
+		<option3>Octadecimal code</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq20</qID>
+		<qText>MSB in the binary code is also the MSB of _____</qText>
+		<option1>Binary code</option1>
+		<option2>unit-distance code.</option2>
+		<option3>Gray code</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq21</qID>
+		<qText>Full Form Of MSB</qText>
+		<option1>Most Significant Bit</option1>
+		<option2>Most solved Bit</option2>
+		<option3>Most Smallest Bit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq22</qID>
+		<qText>Gray Code______ is binary code MSB. </qText>
+		<option1>LSB</option1>
+		<option2> MSB. </option2>
+		<option3>Most solved Bit</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq23</qID>
+		<qText>Excess-3 is a _________ used to express decimal numbers</qText>
+		<option1>Binary code</option1>
+		<option2>unit-distance code.</option2>
+		<option3>non-weighted code</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq24</qID>
+		<qText>The ________ is a straight assignment of the binary equivalent</qText>
+		<option1>EBCD</option1>
+		<option2>BCD </option2>
+		<option3>ASCII</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq25</qID>
+		<qText>ASCII stands for __________</qText>
+		<option1>American Standard Code for Information Interchange</option1>
+		<option2>American Standard Code for Integer Interchange</option2>
+		<option3>African Standard Code for Information Interchange</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq26</qID>
+		<qText>ASCII has become a world standard _________ for microcomputers and computers</qText>
+		<option1>alphanumeric code</option1>
+		<option2> minimum change codes</option2>
+		<option3>Binary codes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq27</qID>
+		<qText>ASCII is a ____code representing 2 to the power of 7</qText>
+		<option1>8-bit</option1>
+		<option2>16-bit</option2>
+		<option3>7-bit </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq28</qID>
+		<qText>The 7-bit code is divided into two portions, The leftmost 3 bits portion is called _________and the 4-bit portion on the right is called numeric bits.</qText>
+		<option1>Binary bits</option1>
+		<option2>Alphabhatic bits</option2>
+		<option3>zone bits </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq29</qID>
+		<qText>An 8-bit version of ASCII code is known as </qText>
+		<option1>USACC-II 8 </option1>
+		<option2>ASCII-16</option2>
+		<option3>BCDE</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq30</qID>
+		<qText>EBCDIC stands for </qText>
+		<option1>Extended Binary Coded Destination Interchange</option1>
+		<option2>Extended Binary Coded Decimal Interchange</option2>
+		<option3>External  Binary Coded Decimal Interchange</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq31</qID>
+		<qText>EBCDIC is an _____ and thus accommodates up to 256 characters.</qText>
+		<option1>8-bit code</option1>
+		<option2>16-bit</option2>
+		<option3>4-bit</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq32</qID>
+		<qText>Boolean algebra derives its name from the mathematician</qText>
+		<option1>John Boole</option1>
+		<option2>Einsten Boole</option2>
+		<option3> George Boole</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq33</qID>
+		<qText> True is represented by the value ____ </qText>
+		<option1>1</option1>
+		<option2>0</option2>
+		<option3>3</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq34</qID>
+		<qText>False is represented by the value __</qText>
+		<option1>1</option1>
+		<option2>0</option2>
+		<option3>3</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq35</qID>
+		<qText>AND is represented by </qText>
+		<option1>X*Y</option1>
+		<option2>X-Y</option2>
+		<option3>X.Y </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq36</qID>
+		<qText> OR is represented by</qText>
+		<option1>X*Y</option1>
+		<option2>X-Y</option2>
+		<option3> X + Y </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq37</qID>
+		<qText> NOT is represented by </qText>
+		<option1>XX*Y</option1>
+		<option2> X' </option2>
+		<option3>X*Y</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq38</qID>
+		<qText>___ operations have the highest precedence</qText>
+		<option1>NOT</option1>
+		<option2>AND</option2>
+		<option3>OR</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq39</qID>
+		<qText>____ are a means of representing the results of a logic function .</qText>
+		<option1>Codes</option1>
+		<option2>Truth tables</option2>
+		<option3>Symbols</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq40</qID>
+		<qText>DeMorgan’s first theorem states “________ of whole compliment is equal to the product of individual compliments “</qText>
+		<option1>Product</option1>
+		<option2>sum</option2>
+		<option3>Diffrence</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq41</qID>
+		<qText>DeMorgan’s theorem states ___of whole compliment is equal to sum of individual complements.”</qText>
+		<option1>product </option1>
+		<option2>Quotent</option2>
+		<option3>Diffrence</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq42</qID>
+		<qText>DeMorgan’s Laws are applicable for ______ of variables.</qText>
+		<option1>any number</option1>
+		<option2>only 10 number</option2>
+		<option3>More than 100 number</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq43</qID>
+		<qText>Boolean algebra is ideal for expressing the behavior of ________</qText>
+		<option1>logic circuits</option1>
+		<option2>Analog Circuits</option2>
+		<option3> combinational logic. </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq44</qID>
+		<qText>A_______has two possible choices for representing true and false</qText>
+		<option1>Hexadecimal system</option1>
+		<option2> fixed logic system </option2>
+		<option3>ASCII code system</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq45</qID>
+		<qText>In a________, a high voltage is used to represent logical true (1), and a low voltage for a logical false (0)</qText>
+		<option1>fixed logic system</option1>
+		<option2> positive logic system</option2>
+		<option3>Negative logic system</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq46</qID>
+		<qText>In_______ it is normal to use +5V for true and 0V for false.</qText>
+		<option1> positive logic circuits</option1>
+		<option2>fixed logic system</option2>
+		<option3>Negative logic system</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq47</qID>
+		<qText>Logic gates serve as the building blocks to digital logic circuits using_______</qText>
+		<option1>logic circuits</option1>
+		<option2>Analog Circuits</option2>
+		<option3> combinational logic. </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq48</qID>
+		<qText>___________gates also called inverters</qText>
+		<option1>NOT</option1>
+		<option2>AND</option2>
+		<option3>NOR</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq49</qID>
+		<qText>NOT gates  have a _______ input and a single bit of output. </qText>
+		<option1>single bit  </option1>
+		<option2> two bit</option2>
+		<option3>Three Bit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq50</qID>
+		<qText>IC_____ is a NOT Gate which has 14 Pin </qText>
+		<option1>7077</option1>
+		<option2>7304</option2>
+		<option3>7404</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq51</qID>
+		<qText>_____ gates have two bits of input and a single bit of output. </qText>
+		<option1>AND</option1>
+		<option2>XOR </option2>
+		<option3>NOR</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq52</qID>
+		<qText>The ________defines the behavior of this gate. </qText>
+		<option1>Input pins</option1>
+		<option2>truth table </option2>
+		<option3>Symbol</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq53</qID>
+		<qText>IC ______ is a 2 inputs AND Gate</qText>
+		<option1>7077</option1>
+		<option2>7408</option2>
+		<option3>7304</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq54</qID>
+		<qText>OR gates have ___ of input and a single bit of output</qText>
+		<option1>two bits</option1>
+		<option2>three bits</option2>
+		<option3>single bits</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq55</qID>
+		<qText> The output of OR gate is _______ only if both inputs are 0</qText>
+		<option1>1</option1>
+		<option2>0</option2>
+		<option3>110</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq56</qID>
+		<qText>IC 7432 is 2 inputs____________</qText>
+		<option1>AND Gate</option1>
+		<option2> OR Gate</option2>
+		<option3>NOT Gate</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq57</qID>
+		<qText>____ gate have two bits of input and a single bit of output. </qText>
+		<option1>NAND Gate</option1>
+		<option2>AND Gate</option2>
+		<option3> OR Gate</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq58</qID>
+		<qText>IN IC 7400  NAND Gate,Pin Number 14 for _______ and Pin 7 for GND.</qText>
+		<option1>output</option1>
+		<option2>vcc</option2>
+		<option3>reset</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq59</qID>
+		<qText>The output of EX-OR gate is 1 only if the inputs have </qText>
+		<option1>same values</option1>
+		<option2>opposite values</option2>
+		<option3>no values</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq60</qID>
+		<qText>_______ is called exclusive-or</qText>
+		<option1>NOR</option1>
+		<option2>EX-OR</option2>
+		<option3>OR</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq61</qID>
+		<qText>IC ________ is 2 inputs EX-OR Gate; it is a 14 Pin IC Package</qText>
+		<option1>74404</option1>
+		<option2>74484</option2>
+		<option3>74266</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq62</qID>
+		<qText>The NAND Gate and NOR Gates are called ____________ because these are used to construct basic gates such as NOT Gate OR Gate, AND Gate, and EX-OR Gate.</qText>
+		<option1>united gates</option1>
+		<option2>universal Gates</option2>
+		<option3>Logical Gates</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq63</qID>
+		<qText>The OR gate, And gate inverter and other gates can be interconnected to form _________</qText>
+		<option1>Numerical networks</option1>
+		<option2> logic networks</option2>
+		<option3>ASCII code network</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq64</qID>
+		<qText>The Boolean Expression corresponding to a given gating network cab be ______ by systematically progressing from input to output of the gates</qText>
+		<option1>divided</option1>
+		<option2>multiplied</option2>
+		<option3>added</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq65</qID>
+		<qText>A product term is a local _________ of several variables</qText>
+		<option1>Sum</option1>
+		<option2> product </option2>
+		<option3>Difference</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq66</qID>
+		<qText>In Karnaugh Maps  No ___are allowed. </qText>
+		<option1>zeros</option1>
+		<option2>ones</option2>
+		<option3>twos</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq67</qID>
+		<qText>__________ are the ones, which perform arithmetic operations like addition, subtraction, multiplication, division, and parity calculation</qText>
+		<option1>Basic  ciruits</option1>
+		<option2>Logical circuits</option2>
+		<option3>Arithmetic circuits</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq68</qID>
+		<qText>________ add two binary numbers and give out sum and carry as output</qText>
+		<option1>Adders </option1>
+		<option2>Subtractor</option2>
+		<option3>divider</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq69</qID>
+		<qText>Adding _  produces a sum S bit and a carry out C-out bit. This operation is called half addition and the circuit to realize it is called a half adder.</qText>
+		<option1>two single-bit binary values x,y</option1>
+		<option2>three single-bit binary values x,y,z</option2>
+		<option3>single-bit binary values x,y</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq70</qID>
+		<qText>______ circuits take two binary numbers as input and subtract one binary number input from the other binary number input.</qText>
+		<option1>Half adders</option1>
+		<option2>Full adders</option2>
+		<option3>Subtractor</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq71</qID>
+		<qText>The half-subtractor is a combinational circuit, which is used to perform subtraction of_______ bits. </qText>
+		<option1>2</option1>
+		<option2>4</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq72</qID>
+		<qText>A full subtractor is a combinational circuit that performs subtraction involving_______bits</qText>
+		<option1>2</option1>
+		<option2>4</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq73</qID>
+		<qText>An n-bit adder used to add two n-bit binary numbers can be built by connecting n ______in series</qText>
+		<option1>full adders </option1>
+		<option2>Half adders</option2>
+		<option3>Substractor</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq74</qID>
+		<qText>__________- can be implemented by cascading several full-subtractors. </qText>
+		<option1>Parallel binary subtractor</option1>
+		<option2>Series binary substractor</option2>
+		<option3>Full substractor</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq75</qID>
+		<qText>The addition and __________ operations can be combined into one circuit with one common binary adder</qText>
+		<option1>Division</option1>
+		<option2>substraction</option2>
+		<option3>Multiplication</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq76</qID>
+		<qText>A __________ is a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs</qText>
+		<option1>decoder</option1>
+		<option2>Encoder</option2>
+		<option3>Logic circuits</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq77</qID>
+		<qText>Decoding is necessary in applications such as </qText>
+		<option1>encoding</option1>
+		<option2>data demultiplexing</option2>
+		<option3>data multiplexing</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq78</qID>
+		<qText>An________gate can be used as the basic decoding element, because its output is HIGH only when all its inputs are HIGH.</qText>
+		<option1>AND</option1>
+		<option2>OR</option2>
+		<option3>NAND</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq79</qID>
+		<qText>A binary decoder has n inputs and 2 to the power of n outputs. Only one output is active at _______ time, corresponding to the input value</qText>
+		<option1>1</option1>
+		<option2>2</option2>
+		<option3>3</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq80</qID>
+		<qText>A 2 to 4 decoder consists of two inputs and _____ outputs</qText>
+		<option1>4</option1>
+		<option2>2</option2>
+		<option3>1</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq81</qID>
+		<qText>Any combinational circuit with n inputs and m outputs can be implemented with an n-to-2 to the power of n decoder with m ___________ gates</qText>
+		<option1>AND</option1>
+		<option2>OR</option2>
+		<option3>NAND</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq82</qID>
+		<qText>The BCD – to –decimal decoders converts each BCD code word (8421 code) into one of _______-possible decimal digit indications</qText>
+		<option1>10</option1>
+		<option2>2</option2>
+		<option3>4</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq83</qID>
+		<qText>________ is also known as a 4-line-t0-10-line decoder. </qText>
+		<option1>BCD – to –hexadecimal decoders </option1>
+		<option2>BCD – to –Binary decoders </option2>
+		<option3>BCD – to –decimal decoders </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq84</qID>
+		<qText>The ________ is an integrated circuit BCD-to-decimal decoder with active low outputs.</qText>
+		<option1>7447</option1>
+		<option2>7342</option2>
+		<option3>7442 A</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq85</qID>
+		<qText>Seven segment displays are used to give a visual indication of the output states of digital Ics such a _______ </qText>
+		<option1>decade counters</option1>
+		<option2>Binary counters</option2>
+		<option3>decoders</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq86</qID>
+		<qText>Full form of LED</qText>
+		<option1>Light Emitting Diode</option1>
+		<option2>Laser Emmiting Diode</option2>
+		<option3>Light Emitting Decoder</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq87</qID>
+		<qText>If a device output code has fewer bits than the input code has, the device is usually called an _</qText>
+		<option1>Encoder</option1>
+		<option2>Decade Counter</option2>
+		<option3>Decoder</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq88</qID>
+		<qText>Octal-to-Binary take 8 inputs and provides __________-outputs</qText>
+		<option1>8</option1>
+		<option2>4</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq89</qID>
+		<qText>Decimal-to-Binary take _____ inputs and provides 4 outputs</qText>
+		<option1>10</option1>
+		<option2>15</option2>
+		<option3>20</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq90</qID>
+		<qText>The decimal to BCD encoder has ten input lines and four output lines. The decoded decimal data acts, as an input for decoder and encoded ______outputs is available on the four output lines</qText>
+		<option1>BCD</option1>
+		<option2>EBCD</option2>
+		<option3>Binary</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq91</qID>
+		<qText>octal to binary encodert has eight inputs, one for each octal digit, and _____ outputs that generate the corresponding binary code. </qText>
+		<option1>1</option1>
+		<option2>2</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq92</qID>
+		<qText>A _______ is a digital switch, which connects data from one of n sources to the output. </qText>
+		<option1>De-Multiplexer</option1>
+		<option2>Multiplexer</option2>
+		<option3>Logic gate</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq93</qID>
+		<qText>A   Multiplexer is also known as</qText>
+		<option1> data selector.</option1>
+		<option2>data collector</option2>
+		<option3>data sender</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq94</qID>
+		<qText>A Demultiplxer is a logic circuit with ____input and many outputs</qText>
+		<option1>Many</option1>
+		<option2>10</option2>
+		<option3>one</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq95</qID>
+		<qText>A 1 – 16 Demultiplxer (DMUX) has one input and 16-output. __________select lines are used to select out of the 16 outputs </qText>
+		<option1>3</option1>
+		<option2>2</option2>
+		<option3>4</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq96</qID>
+		<qText>Once _______ has been programmed, the information written is permanent and cannot be erased or deleted. </qText>
+		<option1>RAM</option1>
+		<option2>EPROM</option2>
+		<option3>PROM</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq97</qID>
+		<qText>A PROM is a device that includes both the Decoder and the ______Gates with in a single IC Package</qText>
+		<option1>OR</option1>
+		<option2>NOR</option2>
+		<option3>NAND</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq98</qID>
+		<qText>A _____________ is a programmable device used to implement combinational logic circuits</qText>
+		<option1> programmable logic array</option1>
+		<option2>programmable array logic </option2>
+		<option3>CPLD</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq99</qID>
+		<qText>_________ is the logic circuit in which output depends on present value of inputs at that instant and past history of circuit </qText>
+		<option1>Sequential Circuit</option1>
+		<option2> Combinational Logic Circuit </option2>
+		<option3>Binary Logic Circuits</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Electronics</catName>
+		<catID>de</catID>
+		<qID>deq100</qID>
+		<qText>_______is Bistable element.</qText>
+		<option1>Decoders</option1>
+		<option2> Flip-Flop </option2>
+		<option3>Encoders</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq1</qID>
+		<qText>Physical address is ____ bit addresses</qText>
+		<option1>16</option1>
+		<option2>29</option2>
+		<option3>20</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq2</qID>
+		<qText>The group of conducting lines that carries data is called </qText>
+		<option1>data bus.</option1>
+		<option2>address bus.</option2>
+		<option3>control bus.</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq3</qID>
+		<qText> The group of conducting lines that carries address is called </qText>
+		<option1>data bus.</option1>
+		<option2>address bus.</option2>
+		<option3>control bus.</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq4</qID>
+		<qText>The group of conducting lines that carries control is called </qText>
+		<option1>data bus.</option1>
+		<option2>address bus.</option2>
+		<option3>control bus.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq5</qID>
+		<qText> The groups of conducting lines that are directly connected to Microprocessor are called</qText>
+		<option1>system bus.</option1>
+		<option2>control bus.</option2>
+		<option3> CPU bus</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq6</qID>
+		<qText>The group of conducting lines that carries data address and control signals in a Microprocessor system is called system bus.</qText>
+		<option1>system bus.</option1>
+		<option2>control bus.</option2>
+		<option3> CPU bus</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq7</qID>
+		<qText>A clock is a ___ wave, which is used to synchronize various devices in the Microprocessor and in the system.</qText>
+		<option1>square</option1>
+		<option2>Sawtooth</option2>
+		<option3>sinosodial </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq8</qID>
+		<qText>A system designed using a Microprocessor as its CPU is called a  </qText>
+		<option1>Microcomputer</option1>
+		<option2>Super computer</option2>
+		<option3>Personal computer</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq9</qID>
+		<qText> The EPROM memory is used to store____ programs and data. </qText>
+		<option1>Permanent</option1>
+		<option2> temporary </option2>
+		<option3>EXE</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq10</qID>
+		<qText>EU stands for </qText>
+		<option1>Execution unit </option1>
+		<option2>Exchnage Unit</option2>
+		<option3>Evaluate Unit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq11</qID>
+		<qText> The pre-fetched instructions are stored in a group of high-speed registers known as the </qText>
+		<option1>Programme Queue</option1>
+		<option2>Instruction Queue</option2>
+		<option3>Stack Queue</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq12</qID>
+		<qText>The process of fetching the next instruction in advance while the EU is executing the current instruction is known as</qText>
+		<option1>pre-fetching </option1>
+		<option2>Compiling</option2>
+		<option3> pipelining.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq13</qID>
+		<qText> ALU stands for </qText>
+		<option1>Arthamatic Logic Unit</option1>
+		<option2>Assembly Language unit</option2>
+		<option3>Adding Logic Unit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq14</qID>
+		<qText>ISS Stands</qText>
+		<option1>Interrupt Service Subroutine</option1>
+		<option2>Interrupt Super Service </option2>
+		<option3>Interrupt  Subroutine Service </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq15</qID>
+		<qText>The address put on the 20-bit address line is called </qText>
+		<option1>Physical Address </option1>
+		<option2>Memory Address</option2>
+		<option3>EXE address</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq16</qID>
+		<qText>The segment group registers and BX, BP, SP, SI or DI are ___ bits</qText>
+		<option1>32</option1>
+		<option2>64</option2>
+		<option3>16</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq17</qID>
+		<qText>The WR pin is an active low __ pin. </qText>
+		<option1>output</option1>
+		<option2>Input</option2>
+		<option3>GND</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq18</qID>
+		<qText>The 8086 based system can be made to work in maximum mode by ________ the MN/MX pin. </qText>
+		<option1>Taking output</option1>
+		<option2>giving input</option2>
+		<option3>grounding</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq19</qID>
+		<qText>The different ways that a processor can access data are referred to as _</qText>
+		<option1>addressing modes</option1>
+		<option2>Controlling modes</option2>
+		<option3>Input modes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq20</qID>
+		<qText>When the EU needs to access a ML, it sends an offset value to the BIU. This offset is also called the </qText>
+		<option1>Direct address</option1>
+		<option2>Effective address </option2>
+		<option3> Based address </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq21</qID>
+		<qText>Microprocessor 8088 has only ___ data lines therefore,</qText>
+		<option1>6</option1>
+		<option2>16</option2>
+		<option3>8</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq22</qID>
+		<qText>Microprocessor 8088 has ___-byte instruction queue</qText>
+		<option1>16</option1>
+		<option2>20</option2>
+		<option3>4</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq23</qID>
+		<qText>____ Register is used to mask the DMA request made through channels and to unmask DMA request made through channels</qText>
+		<option1>Request register</option1>
+		<option2>Mask Register</option2>
+		<option3>Status Register</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq24</qID>
+		<qText>____Register is used to request a DMA transfer via software. </qText>
+		<option1>Request register</option1>
+		<option2>Mask Register</option2>
+		<option3>Status Register</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq25</qID>
+		<qText>The __ sublet interconnects the system data bus and the internal units of the microprocessor.</qText>
+		<option1>address interface </option1>
+		<option2>data interface </option2>
+		<option3>control interface </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq26</qID>
+		<qText>The __ unit generates the address. , which is directly connected to the address interface.</qText>
+		<option1>ALU</option1>
+		<option2>EU</option2>
+		<option3>memory management unit</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq27</qID>
+		<qText>The __ sends and receives a number of control and status signals from the processor to the external systems and from external devices to the processor. </qText>
+		<option1>control interface</option1>
+		<option2>address interface </option2>
+		<option3>data interface </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq28</qID>
+		<qText>The interface between the main and the secondary memory is managed by the ___system in a manner that is completely transparent to the user</qText>
+		<option1>operating </option1>
+		<option2>control </option2>
+		<option3>Driver </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq29</qID>
+		<qText>_____ is a memory management mechanism that allocates main memory by segment and supervises any segment related activities. </qText>
+		<option1>Executing</option1>
+		<option2>Compiling</option2>
+		<option3>Segmentation</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq30</qID>
+		<qText>_____ arise from the appearance of branch, jump and other control flow change instructions in the pipeline.</qText>
+		<option1> Data hazards </option1>
+		<option2> Control hazards</option2>
+		<option3> Structural hazards </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq31</qID>
+		<qText>The _____ unit read the decoded instructions from decode unit and process them. </qText>
+		<option1>execution</option1>
+		<option2> Bus interface unit</option2>
+		<option3> Segmentation unit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq32</qID>
+		<qText>The_____ unit can be considered as MMU of 80836.I</qText>
+		<option1>execution</option1>
+		<option2> Bus interface unit</option2>
+		<option3> Segmentation unit</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq33</qID>
+		<qText>_____ has 32 bit internal and external data bus</qText>
+		<option1>80386</option1>
+		<option2>80486</option2>
+		<option3>80586</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq34</qID>
+		<qText>The _________ is a 32bit processor with 64-bit data bus of 36-bit address bus to address up to 64GB of physical memory space.</qText>
+		<option1>Pentium pro</option1>
+		<option2>Pentinum 2</option2>
+		<option3>pentium 4</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq35</qID>
+		<qText>_________ released in the year 1999 and consists of 7.5 million transistors.</qText>
+		<option1>Pentium pro</option1>
+		<option2>Pentinum 2</option2>
+		<option3>pentium 4</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq36</qID>
+		<qText>Pentium III released in the year 1999 and consists of ____million transistors</qText>
+		<option1>42</option1>
+		<option2>32</option2>
+		<option3>9.5</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq37</qID>
+		<qText>IRDA stands for _______</qText>
+		<option1>Infrared DATA Association standard</option1>
+		<option2>Innitative DATA Association standard</option2>
+		<option3>Interrnatiopnal  DATA Association standard</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq38</qID>
+		<qText>________is a 32 -bit processor with 64 -bit data bus and 36 -bit address bus to address up to 64 GB of physical memory space</qText>
+		<option1>Pentium III</option1>
+		<option2>Pentium II</option2>
+		<option3>Pentium IV</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq39</qID>
+		<qText>The____ has five stages of instruction pipeline execution andallows simulations execution of two consecutive instruction, </qText>
+		<option1>80486</option1>
+		<option2>80286</option2>
+		<option3>80386</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq40</qID>
+		<qText>The segmentation and paging unit can be considered as ____ of 80836 </qText>
+		<option1>CU</option1>
+		<option2>EU</option2>
+		<option3>MMU</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq41</qID>
+		<qText>Logical address is ____ bit addresses</qText>
+		<option1>16</option1>
+		<option2>32</option2>
+		<option3>20</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq42</qID>
+		<qText>Instrruction queue is of ____byte wide</qText>
+		<option1>1</option1>
+		<option2>6</option2>
+		<option3>4</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq43</qID>
+		<qText>The flag register is of ____</qText>
+		<option1>16</option1>
+		<option2>28</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq44</qID>
+		<qText>Default offset register for data reference is stack segment is register</qText>
+		<option1>BP</option1>
+		<option2>SP </option2>
+		<option3>DI</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq45</qID>
+		<qText>The 8253 has __number of 16 bit countes</qText>
+		<option1>4</option1>
+		<option2>2</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq46</qID>
+		<qText>The maximum data rarte that can be set in 8261 is </qText>
+		<option1>32 kbit/sec</option1>
+		<option2>64 kbit/sec</option2>
+		<option3>24 kbit/sec</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq47</qID>
+		<qText>DB directive is used to allocate memory in terms of </qText>
+		<option1>Bytes</option1>
+		<option2>Megabytes</option2>
+		<option3>Kilobytes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq48</qID>
+		<qText>Assume directive is used to translate logical segment into ____segment</qText>
+		<option1>DS</option1>
+		<option2>ss</option2>
+		<option3>Physical</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq49</qID>
+		<qText>The End directive indiicates ____of the program</qText>
+		<option1>end </option1>
+		<option2>start</option2>
+		<option3>Compile</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq50</qID>
+		<qText>____ instruction is mainly used in table references</qText>
+		<option1>Mov</option1>
+		<option2>Xlat</option2>
+		<option3>Xchg</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq51</qID>
+		<qText>Mov instruction cannot be used to move data between  2 _______location directly</qText>
+		<option1>Memory </option1>
+		<option2>Register</option2>
+		<option3>pointer</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq52</qID>
+		<qText>MUL instruction trequires byte multiplicand always in ___ register</qText>
+		<option1>CL</option1>
+		<option2>BL</option2>
+		<option3>AL</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq53</qID>
+		<qText>Rep refix is preferably used with ____type instuction</qText>
+		<option1>String</option1>
+		<option2>Move</option2>
+		<option3>Start</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq54</qID>
+		<qText>Microprocessor is _________VLSI device</qText>
+		<option1>Programmable</option1>
+		<option2>Interface</option2>
+		<option3>Contol</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq55</qID>
+		<qText>Internal memory of the microprocessor is generally in the form of_________</qText>
+		<option1>Registers</option1>
+		<option2>Programs</option2>
+		<option3>pointers</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq56</qID>
+		<qText>Operation of he microprocessor is dictated by ___instruction</qText>
+		<option1>Opcode</option1>
+		<option2>Start</option2>
+		<option3>nmemonics</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq57</qID>
+		<qText>Assembly  Language is in the form of _____</qText>
+		<option1>Opcode</option1>
+		<option2>string</option2>
+		<option3>nmemonics</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq58</qID>
+		<qText>Th n-bit processor is characterized by ___of internal register and ALU Organisation</qText>
+		<option1>Width </option1>
+		<option2>Length</option2>
+		<option3>Height</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq59</qID>
+		<qText>For Maximum mode MN/MX pin is strapped to ___</qText>
+		<option1>Plus 15 volts</option1>
+		<option2>Minus 15 volts</option2>
+		<option3>Minus 60 volts</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq60</qID>
+		<qText>For Maximum mode MN/MX pin is connected to ___</qText>
+		<option1>Reset</option1>
+		<option2>Ground </option2>
+		<option3>VCC</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq61</qID>
+		<qText>The word acess from odd address requires ___ bus cycles</qText>
+		<option1>3</option1>
+		<option2>5</option2>
+		<option3>2</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq62</qID>
+		<qText>The processor executes ___ interruptts acknowledge cycles to iitaste the interrupt</qText>
+		<option1>3</option1>
+		<option2>5</option2>
+		<option3>2</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq63</qID>
+		<qText>Int 0 is called as ____interrupt</qText>
+		<option1>Divide over flow</option1>
+		<option2>Multiple over flow</option2>
+		<option3>add over flow</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq64</qID>
+		<qText>External interrupts are initated through ___</qText>
+		<option1>INTR</option1>
+		<option2>HOLD</option2>
+		<option3>HALD</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq65</qID>
+		<qText>In 8088, the data accessing is always as _______</qText>
+		<option1>word</option1>
+		<option2>byte</option2>
+		<option3>operand</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq66</qID>
+		<qText>Each counte of 8253 can be used ibn ___ different modes</qText>
+		<option1>32</option1>
+		<option2>64</option2>
+		<option3>6</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq67</qID>
+		<qText>Read on fly in 8253 does not require that the count to be _______</qText>
+		<option1>Stopped</option1>
+		<option2>started</option2>
+		<option3>Intrrupted</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq68</qID>
+		<qText>The 8251 has ____modem facility</qText>
+		<option1>inbuilt</option1>
+		<option2>External </option2>
+		<option3>No</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq69</qID>
+		<qText>The 8237 can beoperated in ___ different mode</qText>
+		<option1>4</option1>
+		<option2>5</option2>
+		<option3>6</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq70</qID>
+		<qText>The 8237 supports multiple services on ___services</qText>
+		<option1>Last</option1>
+		<option2>intrupt</option2>
+		<option3>Priority</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq71</qID>
+		<qText>Assembler converts_______file into _____file</qText>
+		<option1>Assembly language, object</option1>
+		<option2>Assembly language,Assembly ,</option2>
+		<option3>Assembly language,Code,</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq72</qID>
+		<qText>The linker produces __file</qText>
+		<option1>EXE</option1>
+		<option2>END</option2>
+		<option3>Command</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq73</qID>
+		<qText>The debugging facility is accomplished by ________command</qText>
+		<option1>Windows DEBUG</option1>
+		<option2>Dos DEBUG</option2>
+		<option3>DEBUG</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq74</qID>
+		<qText>To execute the program in DOS debugger ________command is used</qText>
+		<option1>A</option1>
+		<option2>B</option2>
+		<option3>G</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq75</qID>
+		<qText>To display the memory contents ____command of debug is used</qText>
+		<option1>D</option1>
+		<option2>G</option2>
+		<option3>T</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq76</qID>
+		<qText>To examine the register contents __command is used</qText>
+		<option1>D</option1>
+		<option2>R</option2>
+		<option3>G</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq77</qID>
+		<qText>To quit the DOS debuuger ___________command is used</qText>
+		<option1>q</option1>
+		<option2>T</option2>
+		<option3>G</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq78</qID>
+		<qText>The debug commands are executable at ________prompt</qText>
+		<option1>hyphen</option1>
+		<option2>Collen</option2>
+		<option3>Fullstop</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq79</qID>
+		<qText>To edit the memory contents ___________debug command is used</qText>
+		<option1>E</option1>
+		<option2>R</option2>
+		<option3>T</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq80</qID>
+		<qText>For single step execution _________debug command is used</qText>
+		<option1>E</option1>
+		<option2>T</option2>
+		<option3>R</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq81</qID>
+		<qText>The memory hierarchy in advanced microprocessor structure has ____levels of memory</qText>
+		<option1>5</option1>
+		<option2>4</option2>
+		<option3>6</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq82</qID>
+		<qText>The virtual memory is achieved by ___and segmentation</qText>
+		<option1>paging</option1>
+		<option2>CS</option2>
+		<option3>SS</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq83</qID>
+		<qText>In  pipelining, if different stages of instruction fetch and execute are handled simultaneously, it is called as___pipelining</qText>
+		<option1>Exe</option1>
+		<option2>instruction</option2>
+		<option3>Start</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq84</qID>
+		<qText>In a instruction level parellesim, if number of instruction are issued simultaneously, it is called as _____ILP</qText>
+		<option1>sub scalar</option1>
+		<option2>none</option2>
+		<option3>superscalar</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq85</qID>
+		<qText>RISC stands for____</qText>
+		<option1>Reverse instruction of super computer</option1>
+		<option2>none</option2>
+		<option3>reduced Instruction set computer</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq86</qID>
+		<qText>The first 32 bit microprocessor realease by intel is____</qText>
+		<option1>80286</option1>
+		<option2>80586</option2>
+		<option3>80386</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq87</qID>
+		<qText>The advanced microprocessor is first incorporated in _____microprocessor</qText>
+		<option1>80186</option1>
+		<option2>80286</option2>
+		<option3>80486</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq88</qID>
+		<qText>The real-mode, 80286 address _bytes of memory</qText>
+		<option1>1 Mbyte</option1>
+		<option2>3 Mbyte</option2>
+		<option3>4 Mbyte</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq89</qID>
+		<qText>The real-mode, 80286 addresses ___of memory</qText>
+		<option1>16 Mybyte</option1>
+		<option2>3 Mbyte</option2>
+		<option3>4 Mbyte</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq90</qID>
+		<qText>Number of protection levels in 80386 are__</qText>
+		<option1>4</option1>
+		<option2>3</option2>
+		<option3>none</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq91</qID>
+		<qText>80386 addresses a physical memory of upto</qText>
+		<option1>14G bytes</option1>
+		<option2>4G bytes</option2>
+		<option3>44G bytes</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq92</qID>
+		<qText>The 80486 has built in cache of ___byte</qText>
+		<option1>2K</option1>
+		<option2>6K</option2>
+		<option3>8K</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq93</qID>
+		<qText>The built in coprocessor is not present in __32 bit microprocessor</qText>
+		<option1>80286</option1>
+		<option2>80586</option2>
+		<option3>80386</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq94</qID>
+		<qText>The internal cache in 80586 or pentium is _____8K capcity</qText>
+		<option1>4</option1>
+		<option2>2</option2>
+		<option3>6</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq95</qID>
+		<qText>The built -in Dynamic branch prediction logic is present in _____processor</qText>
+		<option1>pentium</option1>
+		<option2>celeron</option2>
+		<option3>none</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq96</qID>
+		<qText>The RS-232 is _______bus standard</qText>
+		<option1>Serial</option1>
+		<option2>Parllel</option2>
+		<option3>none</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq97</qID>
+		<qText>The centronics is ________bus standard</qText>
+		<option1>Serial</option1>
+		<option2>Parllel</option2>
+		<option3>none</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq98</qID>
+		<qText>USB stands for_____</qText>
+		<option1>Ultra safe Bus</option1>
+		<option2>universal stnadard Bus</option2>
+		<option3>Universal Serial Bus</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq99</qID>
+		<qText>I square c bus stands for</qText>
+		<option1>Inter-IC bus</option1>
+		<option2>Ultra safe Bus</option2>
+		<option3>Interrupt  bus</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq100</qID>
+		<qText>The null modem connection in RS-232requires ________connection</qText>
+		<option1>Straight</option1>
+		<option2>Cross-over</option2>
+		<option3>horizantal</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+	<question/>
+</dataroot>

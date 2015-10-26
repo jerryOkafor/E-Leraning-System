@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by admin (EMBRACE) -->
+<dataroot generated="2006-01-23T22:08:26">
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq1</qID>
+		<qText>Physical address is ____ bit addresses</qText>
+		<option1>16</option1>
+		<option2>29</option2>
+		<option3>20</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq2</qID>
+		<qText>The group of conducting lines that carries data is called </qText>
+		<option1>data bus.</option1>
+		<option2>address bus.</option2>
+		<option3>control bus.</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq3</qID>
+		<qText> The group of conducting lines that carries address is called </qText>
+		<option1>data bus.</option1>
+		<option2>address bus.</option2>
+		<option3>control bus.</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq4</qID>
+		<qText>The group of conducting lines that carries control is called </qText>
+		<option1>data bus.</option1>
+		<option2>address bus.</option2>
+		<option3>control bus.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq5</qID>
+		<qText> The groups of conducting lines that are directly connected to Microprocessor are called</qText>
+		<option1>system bus.</option1>
+		<option2>control bus.</option2>
+		<option3> CPU bus</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq6</qID>
+		<qText>The group of conducting lines that carries data address and control signals in a Microprocessor system is called system bus.</qText>
+		<option1>system bus.</option1>
+		<option2>control bus.</option2>
+		<option3> CPU bus</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq7</qID>
+		<qText>A clock is a ___ wave, which is used to synchronize various devices in the Microprocessor and in the system.</qText>
+		<option1>square</option1>
+		<option2>Sawtooth</option2>
+		<option3>sinosodial </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq8</qID>
+		<qText>A system designed using a Microprocessor as its CPU is called a  </qText>
+		<option1>Microcomputer</option1>
+		<option2>Super computer</option2>
+		<option3>Personal computer</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq9</qID>
+		<qText> The EPROM memory is used to store____ programs and data. </qText>
+		<option1>Permanent</option1>
+		<option2> temporary </option2>
+		<option3>EXE</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq10</qID>
+		<qText>EU stands for </qText>
+		<option1>Execution unit </option1>
+		<option2>Exchnage Unit</option2>
+		<option3>Evaluate Unit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq11</qID>
+		<qText> The pre-fetched instructions are stored in a group of high-speed registers known as the </qText>
+		<option1>Programme Queue</option1>
+		<option2>Instruction Queue</option2>
+		<option3>Stack Queue</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq12</qID>
+		<qText>The process of fetching the next instruction in advance while the EU is executing the current instruction is known as</qText>
+		<option1>pre-fetching </option1>
+		<option2>Compiling</option2>
+		<option3> pipelining.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq13</qID>
+		<qText> ALU stands for </qText>
+		<option1>Arthamatic Logic Unit</option1>
+		<option2>Assembly Language unit</option2>
+		<option3>Adding Logic Unit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq14</qID>
+		<qText>ISS Stands</qText>
+		<option1>Interrupt Service Subroutine</option1>
+		<option2>Interrupt Super Service </option2>
+		<option3>Interrupt  Subroutine Service </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq15</qID>
+		<qText>The address put on the 20-bit address line is called </qText>
+		<option1>Physical Address </option1>
+		<option2>Memory Address</option2>
+		<option3>EXE address</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq16</qID>
+		<qText>The segment group registers and BX, BP, SP, SI or DI are ___ bits</qText>
+		<option1>32</option1>
+		<option2>64</option2>
+		<option3>16</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq17</qID>
+		<qText>The WR pin is an active low __ pin. </qText>
+		<option1>output</option1>
+		<option2>Input</option2>
+		<option3>GND</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq18</qID>
+		<qText>The 8086 based system can be made to work in maximum mode by ________ the MN/MX pin. </qText>
+		<option1>Taking output</option1>
+		<option2>giving input</option2>
+		<option3>grounding</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq19</qID>
+		<qText>The different ways that a processor can access data are referred to as _</qText>
+		<option1>addressing modes</option1>
+		<option2>Controlling modes</option2>
+		<option3>Input modes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq20</qID>
+		<qText>When the EU needs to access a ML, it sends an offset value to the BIU. This offset is also called the </qText>
+		<option1>Direct address</option1>
+		<option2>Effective address </option2>
+		<option3> Based address </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq21</qID>
+		<qText>Microprocessor 8088 has only ___ data lines therefore,</qText>
+		<option1>6</option1>
+		<option2>16</option2>
+		<option3>8</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq22</qID>
+		<qText>Microprocessor 8088 has ___-byte instruction queue</qText>
+		<option1>16</option1>
+		<option2>20</option2>
+		<option3>4</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq23</qID>
+		<qText>____ Register is used to mask the DMA request made through channels and to unmask DMA request made through channels</qText>
+		<option1>Request register</option1>
+		<option2>Mask Register</option2>
+		<option3>Status Register</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq24</qID>
+		<qText>____Register is used to request a DMA transfer via software. </qText>
+		<option1>Request register</option1>
+		<option2>Mask Register</option2>
+		<option3>Status Register</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq25</qID>
+		<qText>The __ sublet interconnects the system data bus and the internal units of the microprocessor.</qText>
+		<option1>address interface </option1>
+		<option2>data interface </option2>
+		<option3>control interface </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq26</qID>
+		<qText>The __ unit generates the address. , which is directly connected to the address interface.</qText>
+		<option1>ALU</option1>
+		<option2>EU</option2>
+		<option3>memory management unit</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq27</qID>
+		<qText>The __ sends and receives a number of control and status signals from the processor to the external systems and from external devices to the processor. </qText>
+		<option1>control interface</option1>
+		<option2>address interface </option2>
+		<option3>data interface </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq28</qID>
+		<qText>The interface between the main and the secondary memory is managed by the ___system in a manner that is completely transparent to the user</qText>
+		<option1>operating </option1>
+		<option2>control </option2>
+		<option3>Driver </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq29</qID>
+		<qText>_____ is a memory management mechanism that allocates main memory by segment and supervises any segment related activities. </qText>
+		<option1>Executing</option1>
+		<option2>Compiling</option2>
+		<option3>Segmentation</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq30</qID>
+		<qText>_____ arise from the appearance of branch, jump and other control flow change instructions in the pipeline.</qText>
+		<option1> Data hazards </option1>
+		<option2> Control hazards</option2>
+		<option3> Structural hazards </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq31</qID>
+		<qText>The _____ unit read the decoded instructions from decode unit and process them. </qText>
+		<option1>execution</option1>
+		<option2> Bus interface unit</option2>
+		<option3> Segmentation unit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq32</qID>
+		<qText>The_____ unit can be considered as MMU of 80836.I</qText>
+		<option1>execution</option1>
+		<option2> Bus interface unit</option2>
+		<option3> Segmentation unit</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq33</qID>
+		<qText>_____ has 32 bit internal and external data bus</qText>
+		<option1>80386</option1>
+		<option2>80486</option2>
+		<option3>80586</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq34</qID>
+		<qText>The _________ is a 32bit processor with 64-bit data bus of 36-bit address bus to address up to 64GB of physical memory space.</qText>
+		<option1>Pentium pro</option1>
+		<option2>Pentinum 2</option2>
+		<option3>pentium 4</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq35</qID>
+		<qText>_________ released in the year 1999 and consists of 7.5 million transistors.</qText>
+		<option1>Pentium pro</option1>
+		<option2>Pentinum 2</option2>
+		<option3>pentium 4</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq36</qID>
+		<qText>Pentium III released in the year 1999 and consists of ____million transistors</qText>
+		<option1>42</option1>
+		<option2>32</option2>
+		<option3>9.5</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq37</qID>
+		<qText>IRDA stands for _______</qText>
+		<option1>Infrared DATA Association standard</option1>
+		<option2>Innitative DATA Association standard</option2>
+		<option3>Interrnatiopnal  DATA Association standard</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq38</qID>
+		<qText>________is a 32 -bit processor with 64 -bit data bus and 36 -bit address bus to address up to 64 GB of physical memory space</qText>
+		<option1>Pentium III</option1>
+		<option2>Pentium II</option2>
+		<option3>Pentium IV</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq39</qID>
+		<qText>The____ has five stages of instruction pipeline execution andallows simulations execution of two consecutive instruction, </qText>
+		<option1>80486</option1>
+		<option2>80286</option2>
+		<option3>80386</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq40</qID>
+		<qText>The segmentation and paging unit can be considered as ____ of 80836 </qText>
+		<option1>CU</option1>
+		<option2>EU</option2>
+		<option3>MMU</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq41</qID>
+		<qText>Logical address is ____ bit addresses</qText>
+		<option1>16</option1>
+		<option2>32</option2>
+		<option3>20</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq42</qID>
+		<qText>Instrruction queue is of ____byte wide</qText>
+		<option1>1</option1>
+		<option2>6</option2>
+		<option3>4</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq43</qID>
+		<qText>The flag register is of ____</qText>
+		<option1>16</option1>
+		<option2>28</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq44</qID>
+		<qText>Default offset register for data reference is stack segment is register</qText>
+		<option1>BP</option1>
+		<option2>SP </option2>
+		<option3>DI</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq45</qID>
+		<qText>The 8253 has __number of 16 bit countes</qText>
+		<option1>4</option1>
+		<option2>2</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq46</qID>
+		<qText>The maximum data rarte that can be set in 8261 is </qText>
+		<option1>32 kbit/sec</option1>
+		<option2>64 kbit/sec</option2>
+		<option3>24 kbit/sec</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq47</qID>
+		<qText>DB directive is used to allocate memory in terms of </qText>
+		<option1>Bytes</option1>
+		<option2>Megabytes</option2>
+		<option3>Kilobytes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq48</qID>
+		<qText>Assume directive is used to translate logical segment into ____segment</qText>
+		<option1>DS</option1>
+		<option2>ss</option2>
+		<option3>Physical</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq49</qID>
+		<qText>The End directive indiicates ____of the program</qText>
+		<option1>end </option1>
+		<option2>start</option2>
+		<option3>Compile</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq50</qID>
+		<qText>____ instruction is mainly used in table references</qText>
+		<option1>Mov</option1>
+		<option2>Xlat</option2>
+		<option3>Xchg</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq51</qID>
+		<qText>Mov instruction cannot be used to move data between  2 _______location directly</qText>
+		<option1>Memory </option1>
+		<option2>Register</option2>
+		<option3>pointer</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq52</qID>
+		<qText>MUL instruction trequires byte multiplicand always in ___ register</qText>
+		<option1>CL</option1>
+		<option2>BL</option2>
+		<option3>AL</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq53</qID>
+		<qText>Rep refix is preferably used with ____type instuction</qText>
+		<option1>String</option1>
+		<option2>Move</option2>
+		<option3>Start</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq54</qID>
+		<qText>Microprocessor is _________VLSI device</qText>
+		<option1>Programmable</option1>
+		<option2>Interface</option2>
+		<option3>Contol</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq55</qID>
+		<qText>Internal memory of the microprocessor is generally in the form of_________</qText>
+		<option1>Registers</option1>
+		<option2>Programs</option2>
+		<option3>pointers</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq56</qID>
+		<qText>Operation of he microprocessor is dictated by ___instruction</qText>
+		<option1>Opcode</option1>
+		<option2>Start</option2>
+		<option3>nmemonics</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq57</qID>
+		<qText>Assembly  Language is in the form of _____</qText>
+		<option1>Opcode</option1>
+		<option2>string</option2>
+		<option3>nmemonics</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq58</qID>
+		<qText>Th n-bit processor is characterized by ___of internal register and ALU Organisation</qText>
+		<option1>Width </option1>
+		<option2>Length</option2>
+		<option3>Height</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq59</qID>
+		<qText>For Maximum mode MN/MX pin is strapped to ___</qText>
+		<option1>Plus 15 volts</option1>
+		<option2>Minus 15 volts</option2>
+		<option3>Minus 60 volts</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq60</qID>
+		<qText>For Maximum mode MN/MX pin is connected to ___</qText>
+		<option1>Reset</option1>
+		<option2>Ground </option2>
+		<option3>VCC</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq61</qID>
+		<qText>The word acess from odd address requires ___ bus cycles</qText>
+		<option1>3</option1>
+		<option2>5</option2>
+		<option3>2</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq62</qID>
+		<qText>The processor executes ___ interruptts acknowledge cycles to iitaste the interrupt</qText>
+		<option1>3</option1>
+		<option2>5</option2>
+		<option3>2</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq63</qID>
+		<qText>Int 0 is called as ____interrupt</qText>
+		<option1>Divide over flow</option1>
+		<option2>Multiple over flow</option2>
+		<option3>add over flow</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq64</qID>
+		<qText>External interrupts are initated through ___</qText>
+		<option1>INTR</option1>
+		<option2>HOLD</option2>
+		<option3>HALD</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq65</qID>
+		<qText>In 8088, the data accessing is always as _______</qText>
+		<option1>word</option1>
+		<option2>byte</option2>
+		<option3>operand</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq66</qID>
+		<qText>Each counte of 8253 can be used ibn ___ different modes</qText>
+		<option1>32</option1>
+		<option2>64</option2>
+		<option3>6</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq67</qID>
+		<qText>Read on fly in 8253 does not require that the count to be _______</qText>
+		<option1>Stopped</option1>
+		<option2>started</option2>
+		<option3>Intrrupted</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq68</qID>
+		<qText>The 8251 has ____modem facility</qText>
+		<option1>inbuilt</option1>
+		<option2>External </option2>
+		<option3>No</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq69</qID>
+		<qText>The 8237 can beoperated in ___ different mode</qText>
+		<option1>4</option1>
+		<option2>5</option2>
+		<option3>6</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq70</qID>
+		<qText>The 8237 supports multiple services on ___services</qText>
+		<option1>Last</option1>
+		<option2>intrupt</option2>
+		<option3>Priority</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq71</qID>
+		<qText>Assembler converts_______file into _____file</qText>
+		<option1>Assembly language, object</option1>
+		<option2>Assembly language,Assembly ,</option2>
+		<option3>Assembly language,Code,</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq72</qID>
+		<qText>The linker produces __file</qText>
+		<option1>EXE</option1>
+		<option2>END</option2>
+		<option3>Command</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq73</qID>
+		<qText>The debugging facility is accomplished by ________command</qText>
+		<option1>Windows DEBUG</option1>
+		<option2>Dos DEBUG</option2>
+		<option3>DEBUG</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq74</qID>
+		<qText>To execute the program in DOS debugger ________command is used</qText>
+		<option1>A</option1>
+		<option2>B</option2>
+		<option3>G</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq75</qID>
+		<qText>To display the memory contents ____command of debug is used</qText>
+		<option1>D</option1>
+		<option2>G</option2>
+		<option3>T</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq76</qID>
+		<qText>To examine the register contents __command is used</qText>
+		<option1>D</option1>
+		<option2>R</option2>
+		<option3>G</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq77</qID>
+		<qText>To quit the DOS debuuger ___________command is used</qText>
+		<option1>q</option1>
+		<option2>T</option2>
+		<option3>G</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq78</qID>
+		<qText>The debug commands are executable at ________prompt</qText>
+		<option1>hyphen</option1>
+		<option2>Collen</option2>
+		<option3>Fullstop</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq79</qID>
+		<qText>To edit the memory contents ___________debug command is used</qText>
+		<option1>E</option1>
+		<option2>R</option2>
+		<option3>T</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq80</qID>
+		<qText>For single step execution _________debug command is used</qText>
+		<option1>E</option1>
+		<option2>T</option2>
+		<option3>R</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq81</qID>
+		<qText>The memory hierarchy in advanced microprocessor structure has ____levels of memory</qText>
+		<option1>5</option1>
+		<option2>4</option2>
+		<option3>6</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq82</qID>
+		<qText>The virtual memory is achieved by ___and segmentation</qText>
+		<option1>paging</option1>
+		<option2>CS</option2>
+		<option3>SS</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq83</qID>
+		<qText>In  pipelining, if different stages of instruction fetch and execute are handled simultaneously, it is called as___pipelining</qText>
+		<option1>Exe</option1>
+		<option2>instruction</option2>
+		<option3>Start</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq84</qID>
+		<qText>In a instruction level parellesim, if number of instruction are issued simultaneously, it is called as _____ILP</qText>
+		<option1>sub scalar</option1>
+		<option2>none</option2>
+		<option3>superscalar</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq85</qID>
+		<qText>RISC stands for____</qText>
+		<option1>Reverse instruction of super computer</option1>
+		<option2>none</option2>
+		<option3>reduced Instruction set computer</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq86</qID>
+		<qText>The first 32 bit microprocessor realease by intel is____</qText>
+		<option1>80286</option1>
+		<option2>80586</option2>
+		<option3>80386</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq87</qID>
+		<qText>The advanced microprocessor is first incorporated in _____microprocessor</qText>
+		<option1>80186</option1>
+		<option2>80286</option2>
+		<option3>80486</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq88</qID>
+		<qText>The real-mode, 80286 address _bytes of memory</qText>
+		<option1>1 Mbyte</option1>
+		<option2>3 Mbyte</option2>
+		<option3>4 Mbyte</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq89</qID>
+		<qText>The real-mode, 80286 addresses ___of memory</qText>
+		<option1>16 Mybyte</option1>
+		<option2>3 Mbyte</option2>
+		<option3>4 Mbyte</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq90</qID>
+		<qText>Number of protection levels in 80386 are__</qText>
+		<option1>4</option1>
+		<option2>3</option2>
+		<option3>none</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq91</qID>
+		<qText>80386 addresses a physical memory of upto</qText>
+		<option1>14G bytes</option1>
+		<option2>4G bytes</option2>
+		<option3>44G bytes</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq92</qID>
+		<qText>The 80486 has built in cache of ___byte</qText>
+		<option1>2K</option1>
+		<option2>6K</option2>
+		<option3>8K</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq93</qID>
+		<qText>The built in coprocessor is not present in __32 bit microprocessor</qText>
+		<option1>80286</option1>
+		<option2>80586</option2>
+		<option3>80386</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq94</qID>
+		<qText>The internal cache in 80586 or pentium is _____8K capcity</qText>
+		<option1>4</option1>
+		<option2>2</option2>
+		<option3>6</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq95</qID>
+		<qText>The built -in Dynamic branch prediction logic is present in _____processor</qText>
+		<option1>pentium</option1>
+		<option2>celeron</option2>
+		<option3>none</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq96</qID>
+		<qText>The RS-232 is _______bus standard</qText>
+		<option1>Serial</option1>
+		<option2>Parllel</option2>
+		<option3>none</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq97</qID>
+		<qText>The centronics is ________bus standard</qText>
+		<option1>Serial</option1>
+		<option2>Parllel</option2>
+		<option3>none</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq98</qID>
+		<qText>USB stands for_____</qText>
+		<option1>Ultra safe Bus</option1>
+		<option2>universal stnadard Bus</option2>
+		<option3>Universal Serial Bus</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq99</qID>
+		<qText>I square c bus stands for</qText>
+		<option1>Inter-IC bus</option1>
+		<option2>Ultra safe Bus</option2>
+		<option3>Interrupt  bus</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Micro Processor Systems</catName>
+		<catID>mcu</catID>
+		<qID>mcuq100</qID>
+		<qText>The null modem connection in RS-232requires ________connection</qText>
+		<option1>Straight</option1>
+		<option2>Cross-over</option2>
+		<option3>horizantal</option3>
+		<correctAns>2</correctAns>
+	</question>
+</dataroot>

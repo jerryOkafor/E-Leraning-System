@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by admin (EMBRACE) -->
+<dataroot generated="2006-01-23T22:08:26">
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq1</qID>
+		<qText>The decimal system is composed of 10 __</qText>
+		<option1>numerals </option1>
+		<option2>Alphabets</option2>
+		<option3>operators</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq2</qID>
+		<qText>In the binary system, there are only two  possible digit values______</qText>
+		<option1>0 and 1</option1>
+		<option2>1 and 10</option2>
+		<option3>1 and 8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq3</qID>
+		<qText>This base-2 system can be used to represent any quantity that can be represented in _____</qText>
+		<option1>Binary</option1>
+		<option2>Octal </option2>
+		<option3>Decimal</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq4</qID>
+		<qText>In digital systems the information that is being processed is usually presented in _</qText>
+		<option1>decimal form</option1>
+		<option2>binary form</option2>
+		<option3>hexadecimal form</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq5</qID>
+		<qText>Any device that has only two operating states or possible conditions can represent _____</qText>
+		<option1>binary quantities</option1>
+		<option2>decimal quantities</option2>
+		<option3>hexadecimal Quantities</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq6</qID>
+		<qText>The__ number system has a base of eight, meaning that it has eight possible digits: 0, 1,2,3,4,5,6,7.</qText>
+		<option1>Decimal </option1>
+		<option2> octal</option2>
+		<option3>Binary</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq7</qID>
+		<qText>The hexadecimal system uses base _</qText>
+		<option1>8</option1>
+		<option2>2</option2>
+		<option3>16</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq8</qID>
+		<qText>____ uses the digits 0 through 9 plus the letters A, B, C, D, E, and F as the 16 digit symbols.</qText>
+		<option1>Decimal </option1>
+		<option2> octal</option2>
+		<option3>Binary</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq9</qID>
+		<qText>For Converting from one Number system form to another Number system form is called </qText>
+		<option1>Number system conversion</option1>
+		<option2>Octal Number System</option2>
+		<option3>Binar Number System</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq10</qID>
+		<qText>Convert decimal to binary method uses repeated division by _</qText>
+		<option1>2</option1>
+		<option2>4</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq11</qID>
+		<qText>Any binary number can be converted to its decimal equivalent simply by___together the weights of the various positions in the binary number</qText>
+		<option1>Substracting</option1>
+		<option2> summing </option2>
+		<option3>Multiplying</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq12</qID>
+		<qText>To convert hexadecimal number to its decimal equivalent ______ hexadecimal digit by its weight and then take sum of these products. </qText>
+		<option1>multiply</option1>
+		<option2>Substract</option2>
+		<option3>Divide</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq13</qID>
+		<qText>Each digit position in hexa decimal number corresponds to a power of </qText>
+		<option1>2</option1>
+		<option2>8</option2>
+		<option3>16</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq14</qID>
+		<qText>____ operation posses addition (+) of two binary numbers and output gives sum and carry.</qText>
+		<option1>Binary substraction</option1>
+		<option2>Binary Addition</option2>
+		<option3>Binary Multiplication</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq15</qID>
+		<qText>Binary subtraction posses’ subtraction (-) of binary numbers and output gives __</qText>
+		<option1>difference and barrow.</option1>
+		<option2>sum and carry.</option2>
+		<option3>product of numbers.</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq16</qID>
+		<qText>Binary Division posses Division ( / ) of  binary numbers and output gives</qText>
+		<option1>sum and carry.</option1>
+		<option2>product of numbers.</option2>
+		<option3> Quotient and reminder.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq17</qID>
+		<qText>___________- are codes, which are represented in binary system with modification from the original ones. </qText>
+		<option1>Hexadecimal codes</option1>
+		<option2>Binary codes</option2>
+		<option3>ASCII</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq18</qID>
+		<qText>The gray code belongs to a class of codes called____</qText>
+		<option1> minimum change codes</option1>
+		<option2>Binary codes</option2>
+		<option3>ASCII codes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq19</qID>
+		<qText>Gray code is also called a </qText>
+		<option1>Binary code</option1>
+		<option2>unit-distance code.</option2>
+		<option3>Octadecimal code</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq20</qID>
+		<qText>MSB in the binary code is also the MSB of _____</qText>
+		<option1>Binary code</option1>
+		<option2>unit-distance code.</option2>
+		<option3>Gray code</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq21</qID>
+		<qText>Full Form Of MSB</qText>
+		<option1>Most Significant Bit</option1>
+		<option2>Most solved Bit</option2>
+		<option3>Most Smallest Bit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq22</qID>
+		<qText>Gray Code______ is binary code MSB. </qText>
+		<option1>LSB</option1>
+		<option2> MSB. </option2>
+		<option3>Most solved Bit</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq23</qID>
+		<qText>Excess-3 is a _________ used to express decimal numbers</qText>
+		<option1>Binary code</option1>
+		<option2>unit-distance code.</option2>
+		<option3>non-weighted code</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq24</qID>
+		<qText>The ________ is a straight assignment of the binary equivalent</qText>
+		<option1>EBCD</option1>
+		<option2>BCD </option2>
+		<option3>ASCII</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq25</qID>
+		<qText>ASCII stands for __________</qText>
+		<option1>American Standard Code for Information Interchange</option1>
+		<option2>American Standard Code for Integer Interchange</option2>
+		<option3>African Standard Code for Information Interchange</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq26</qID>
+		<qText>ASCII has become a world standard _________ for microcomputers and computers</qText>
+		<option1>alphanumeric code</option1>
+		<option2> minimum change codes</option2>
+		<option3>Binary codes</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq27</qID>
+		<qText>ASCII is a ____code representing 2 to the power of 7</qText>
+		<option1>8-bit</option1>
+		<option2>16-bit</option2>
+		<option3>7-bit </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq28</qID>
+		<qText>The 7-bit code is divided into two portions, The leftmost 3 bits portion is called _________and the 4-bit portion on the right is called numeric bits.</qText>
+		<option1>Binary bits</option1>
+		<option2>Alphabhatic bits</option2>
+		<option3>zone bits </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq29</qID>
+		<qText>An 8-bit version of ASCII code is known as </qText>
+		<option1>USACC-II 8 </option1>
+		<option2>ASCII-16</option2>
+		<option3>BCDE</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq30</qID>
+		<qText>EBCDIC stands for </qText>
+		<option1>Extended Binary Coded Destination Interchange</option1>
+		<option2>Extended Binary Coded Decimal Interchange</option2>
+		<option3>External  Binary Coded Decimal Interchange</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq31</qID>
+		<qText>EBCDIC is an _____ and thus accommodates up to 256 characters.</qText>
+		<option1>8-bit code</option1>
+		<option2>16-bit</option2>
+		<option3>4-bit</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq32</qID>
+		<qText>Boolean algebra derives its name from the mathematician</qText>
+		<option1>John Boole</option1>
+		<option2>Einsten Boole</option2>
+		<option3> George Boole</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq33</qID>
+		<qText> True is represented by the value ____ </qText>
+		<option1>1</option1>
+		<option2>0</option2>
+		<option3>3</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq34</qID>
+		<qText>False is represented by the value __</qText>
+		<option1>1</option1>
+		<option2>0</option2>
+		<option3>3</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq35</qID>
+		<qText>AND is represented by </qText>
+		<option1>X*Y</option1>
+		<option2>X-Y</option2>
+		<option3>X.Y </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq36</qID>
+		<qText> OR is represented by</qText>
+		<option1>X*Y</option1>
+		<option2>X-Y</option2>
+		<option3> X + Y </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq37</qID>
+		<qText> NOT is represented by </qText>
+		<option1>XX*Y</option1>
+		<option2> X' </option2>
+		<option3>X*Y</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq38</qID>
+		<qText>___ operations have the highest precedence</qText>
+		<option1>NOT</option1>
+		<option2>AND</option2>
+		<option3>OR</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq39</qID>
+		<qText>____ are a means of representing the results of a logic function .</qText>
+		<option1>Codes</option1>
+		<option2>Truth tables</option2>
+		<option3>Symbols</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq40</qID>
+		<qText>DeMorgan’s first theorem states “________ of whole compliment is equal to the product of individual compliments “</qText>
+		<option1>Product</option1>
+		<option2>sum</option2>
+		<option3>Diffrence</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq41</qID>
+		<qText>DeMorgan’s theorem states ___of whole compliment is equal to sum of individual complements.”</qText>
+		<option1>product </option1>
+		<option2>Quotent</option2>
+		<option3>Diffrence</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq42</qID>
+		<qText>DeMorgan’s Laws are applicable for ______ of variables.</qText>
+		<option1>any number</option1>
+		<option2>only 10 number</option2>
+		<option3>More than 100 number</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq43</qID>
+		<qText>Boolean algebra is ideal for expressing the behavior of ________</qText>
+		<option1>logic circuits</option1>
+		<option2>Analog Circuits</option2>
+		<option3> combinational logic. </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq44</qID>
+		<qText>A_______has two possible choices for representing true and false</qText>
+		<option1>Hexadecimal system</option1>
+		<option2> fixed logic system </option2>
+		<option3>ASCII code system</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq45</qID>
+		<qText>In a________, a high voltage is used to represent logical true (1), and a low voltage for a logical false (0)</qText>
+		<option1>fixed logic system</option1>
+		<option2> positive logic system</option2>
+		<option3>Negative logic system</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq46</qID>
+		<qText>In_______ it is normal to use +5V for true and 0V for false.</qText>
+		<option1> positive logic circuits</option1>
+		<option2>fixed logic system</option2>
+		<option3>Negative logic system</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq47</qID>
+		<qText>Logic gates serve as the building blocks to digital logic circuits using_______</qText>
+		<option1>logic circuits</option1>
+		<option2>Analog Circuits</option2>
+		<option3> combinational logic. </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq48</qID>
+		<qText>___________gates also called inverters</qText>
+		<option1>NOT</option1>
+		<option2>AND</option2>
+		<option3>NOR</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq49</qID>
+		<qText>NOT gates  have a _______ input and a single bit of output. </qText>
+		<option1>single bit  </option1>
+		<option2> two bit</option2>
+		<option3>Three Bit</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq50</qID>
+		<qText>IC_____ is a NOT Gate which has 14 Pin </qText>
+		<option1>7077</option1>
+		<option2>7304</option2>
+		<option3>7404</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq51</qID>
+		<qText>_____ gates have two bits of input and a single bit of output. </qText>
+		<option1>AND</option1>
+		<option2>XOR </option2>
+		<option3>NOR</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq52</qID>
+		<qText>The ________defines the behavior of this gate. </qText>
+		<option1>Input pins</option1>
+		<option2>truth table </option2>
+		<option3>Symbol</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq53</qID>
+		<qText>IC ______ is a 2 inputs AND Gate</qText>
+		<option1>7077</option1>
+		<option2>7408</option2>
+		<option3>7304</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq54</qID>
+		<qText>OR gates have ___ of input and a single bit of output</qText>
+		<option1>two bits</option1>
+		<option2>three bits</option2>
+		<option3>single bits</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq55</qID>
+		<qText> The output of OR gate is _______ only if both inputs are 0</qText>
+		<option1>1</option1>
+		<option2>0</option2>
+		<option3>110</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq56</qID>
+		<qText>IC 7432 is 2 inputs____________</qText>
+		<option1>AND Gate</option1>
+		<option2> OR Gate</option2>
+		<option3>NOT Gate</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq57</qID>
+		<qText>____ gate have two bits of input and a single bit of output. </qText>
+		<option1>NAND Gate</option1>
+		<option2>AND Gate</option2>
+		<option3> OR Gate</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq58</qID>
+		<qText>IN IC 7400  NAND Gate,Pin Number 14 for _______ and Pin 7 for GND.</qText>
+		<option1>output</option1>
+		<option2>vcc</option2>
+		<option3>reset</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq59</qID>
+		<qText>The output of EX-OR gate is 1 only if the inputs have </qText>
+		<option1>same values</option1>
+		<option2>opposite values</option2>
+		<option3>no values</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq60</qID>
+		<qText>_______ is called exclusive-or</qText>
+		<option1>NOR</option1>
+		<option2>EX-OR</option2>
+		<option3>OR</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq61</qID>
+		<qText>IC ________ is 2 inputs EX-OR Gate; it is a 14 Pin IC Package</qText>
+		<option1>74404</option1>
+		<option2>74484</option2>
+		<option3>74266</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq62</qID>
+		<qText>The NAND Gate and NOR Gates are called ____________ because these are used to construct basic gates such as NOT Gate OR Gate, AND Gate, and EX-OR Gate.</qText>
+		<option1>united gates</option1>
+		<option2>universal Gates</option2>
+		<option3>Logical Gates</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq63</qID>
+		<qText>The OR gate, And gate inverter and other gates can be interconnected to form _________</qText>
+		<option1>Numerical networks</option1>
+		<option2> logic networks</option2>
+		<option3>ASCII code network</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq64</qID>
+		<qText>The Boolean Expression corresponding to a given gating network cab be ______ by systematically progressing from input to output of the gates</qText>
+		<option1>divided</option1>
+		<option2>multiplied</option2>
+		<option3>added</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq65</qID>
+		<qText>A product term is a local _________ of several variables</qText>
+		<option1>Sum</option1>
+		<option2> product </option2>
+		<option3>Difference</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq66</qID>
+		<qText>In Karnaugh Maps  No ___are allowed. </qText>
+		<option1>zeros</option1>
+		<option2>ones</option2>
+		<option3>twos</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq67</qID>
+		<qText>__________ are the ones, which perform arithmetic operations like addition, subtraction, multiplication, division, and parity calculation</qText>
+		<option1>Basic  ciruits</option1>
+		<option2>Logical circuits</option2>
+		<option3>Arithmetic circuits</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq68</qID>
+		<qText>________ add two binary numbers and give out sum and carry as output</qText>
+		<option1>Adders </option1>
+		<option2>Subtractor</option2>
+		<option3>divider</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq69</qID>
+		<qText>Adding _  produces a sum S bit and a carry out C-out bit. This operation is called half addition and the circuit to realize it is called a half adder.</qText>
+		<option1>two single-bit binary values x,y</option1>
+		<option2>three single-bit binary values x,y,z</option2>
+		<option3>single-bit binary values x,y</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq70</qID>
+		<qText>______ circuits take two binary numbers as input and subtract one binary number input from the other binary number input.</qText>
+		<option1>Half adders</option1>
+		<option2>Full adders</option2>
+		<option3>Subtractor</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq71</qID>
+		<qText>The half-subtractor is a combinational circuit, which is used to perform subtraction of_______ bits. </qText>
+		<option1>2</option1>
+		<option2>4</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq72</qID>
+		<qText>A full subtractor is a combinational circuit that performs subtraction involving_______bits</qText>
+		<option1>2</option1>
+		<option2>4</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq73</qID>
+		<qText>An n-bit adder used to add two n-bit binary numbers can be built by connecting n ______in series</qText>
+		<option1>full adders </option1>
+		<option2>Half adders</option2>
+		<option3>Substractor</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq74</qID>
+		<qText>__________- can be implemented by cascading several full-subtractors. </qText>
+		<option1>Parallel binary subtractor</option1>
+		<option2>Series binary substractor</option2>
+		<option3>Full substractor</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq75</qID>
+		<qText>The addition and __________ operations can be combined into one circuit with one common binary adder</qText>
+		<option1>Division</option1>
+		<option2>substraction</option2>
+		<option3>Multiplication</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq76</qID>
+		<qText>A __________ is a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs</qText>
+		<option1>decoder</option1>
+		<option2>Encoder</option2>
+		<option3>Logic circuits</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq77</qID>
+		<qText>Decoding is necessary in applications such as </qText>
+		<option1>encoding</option1>
+		<option2>data demultiplexing</option2>
+		<option3>data multiplexing</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq78</qID>
+		<qText>An________gate can be used as the basic decoding element, because its output is HIGH only when all its inputs are HIGH.</qText>
+		<option1>AND</option1>
+		<option2>OR</option2>
+		<option3>NAND</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq79</qID>
+		<qText>A binary decoder has n inputs and 2 to the power of n outputs. Only one output is active at _______ time, corresponding to the input value</qText>
+		<option1>1</option1>
+		<option2>2</option2>
+		<option3>3</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq80</qID>
+		<qText>A 2 to 4 decoder consists of two inputs and _____ outputs</qText>
+		<option1>4</option1>
+		<option2>2</option2>
+		<option3>1</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq81</qID>
+		<qText>Any combinational circuit with n inputs and m outputs can be implemented with an n-to-2 to the power of n decoder with m ___________ gates</qText>
+		<option1>AND</option1>
+		<option2>OR</option2>
+		<option3>NAND</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq82</qID>
+		<qText>The BCD – to –decimal decoders converts each BCD code word (8421 code) into one of _______-possible decimal digit indications</qText>
+		<option1>10</option1>
+		<option2>2</option2>
+		<option3>4</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq83</qID>
+		<qText>________ is also known as a 4-line-t0-10-line decoder. </qText>
+		<option1>BCD – to –hexadecimal decoders </option1>
+		<option2>BCD – to –Binary decoders </option2>
+		<option3>BCD – to –decimal decoders </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq84</qID>
+		<qText>The ________ is an integrated circuit BCD-to-decimal decoder with active low outputs.</qText>
+		<option1>7447</option1>
+		<option2>7342</option2>
+		<option3>7442 A</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq85</qID>
+		<qText>Seven segment displays are used to give a visual indication of the output states of digital Ics such a _______ </qText>
+		<option1>decade counters</option1>
+		<option2>Binary counters</option2>
+		<option3>decoders</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq86</qID>
+		<qText>Full form of LED</qText>
+		<option1>Light Emitting Diode</option1>
+		<option2>Laser Emmiting Diode</option2>
+		<option3>Light Emitting Decoder</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq87</qID>
+		<qText>If a device output code has fewer bits than the input code has, the device is usually called an _</qText>
+		<option1>Encoder</option1>
+		<option2>Decade Counter</option2>
+		<option3>Decoder</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq88</qID>
+		<qText>Octal-to-Binary take 8 inputs and provides __________-outputs</qText>
+		<option1>8</option1>
+		<option2>4</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq89</qID>
+		<qText>Decimal-to-Binary take _____ inputs and provides 4 outputs</qText>
+		<option1>10</option1>
+		<option2>15</option2>
+		<option3>20</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq90</qID>
+		<qText>The decimal to BCD encoder has ten input lines and four output lines. The decoded decimal data acts, as an input for decoder and encoded ______outputs is available on the four output lines</qText>
+		<option1>BCD</option1>
+		<option2>EBCD</option2>
+		<option3>Binary</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq91</qID>
+		<qText>octal to binary encodert has eight inputs, one for each octal digit, and _____ outputs that generate the corresponding binary code. </qText>
+		<option1>1</option1>
+		<option2>2</option2>
+		<option3>3</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq92</qID>
+		<qText>A _______ is a digital switch, which connects data from one of n sources to the output. </qText>
+		<option1>De-Multiplexer</option1>
+		<option2>Multiplexer</option2>
+		<option3>Logic gate</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq93</qID>
+		<qText>A   Multiplexer is also known as</qText>
+		<option1> data selector.</option1>
+		<option2>data collector</option2>
+		<option3>data sender</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq94</qID>
+		<qText>A Demultiplxer is a logic circuit with ____input and many outputs</qText>
+		<option1>Many</option1>
+		<option2>10</option2>
+		<option3>one</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq95</qID>
+		<qText>A 1 – 16 Demultiplxer (DMUX) has one input and 16-output. __________select lines are used to select out of the 16 outputs </qText>
+		<option1>3</option1>
+		<option2>2</option2>
+		<option3>4</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq96</qID>
+		<qText>Once _______ has been programmed, the information written is permanent and cannot be erased or deleted. </qText>
+		<option1>RAM</option1>
+		<option2>EPROM</option2>
+		<option3>PROM</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq97</qID>
+		<qText>A PROM is a device that includes both the Decoder and the ______Gates with in a single IC Package</qText>
+		<option1>OR</option1>
+		<option2>NOR</option2>
+		<option3>NAND</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq98</qID>
+		<qText>A _____________ is a programmable device used to implement combinational logic circuits</qText>
+		<option1> programmable logic array</option1>
+		<option2>programmable array logic </option2>
+		<option3>CPLD</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq99</qID>
+		<qText>_________ is the logic circuit in which output depends on present value of inputs at that instant and past history of circuit </qText>
+		<option1>Sequential Circuit</option1>
+		<option2> Combinational Logic Circuit </option2>
+		<option3>Binary Logic Circuits</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Digital Elecronics</catName>
+		<catID>de</catID>
+		<qID>deq100</qID>
+		<qText>_______is Bistable element.</qText>
+		<option1>Decoders</option1>
+		<option2> Flip-Flop </option2>
+		<option3>Encoders</option3>
+		<correctAns>2</correctAns>
+	</question>
+</dataroot>

@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 13, 2015, 4:47:31 AM
+    Author     : DABBY(3pleMinds)
+*/
+
+.error{
+  color:red;
+  text-align: center;
+}
+.center{
+  text-align: center;
+}
+.boldtext{
+  font-weight: bold;
+}
+.boldertext{
+  font-weight: bolder;
+}
+.tabmargin{
+  left: 50px;
+  overflow-wrap: break-word; 
+}
+
+.middle{
+  text-align: justify;
+}
+
+.forumtables{
+			font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+			border-collapse:collapse;
+			width: 100%;margin: 10px;margin-bottom: 20px;
+}
+
+.forumtables th {
+				font-size:14px;
+				text-align:center;
+				padding:1px;
+				background-color:#A7C942;
+				color:#ffffff;
+}
+.forumtables tr:nth-of-type(even)
+				{
+				 font-size:14px;
+				text-align:center;
+				padding:1px;
+				background-color: #d3d3d3;
+				color:#ffffff;
+				}
+.forumtables tr:nth-of-type(odd)
+				{
+				  font-size:14px;
+				text-align:center;
+				padding:1px;
+				background-color: #d1edff;
+				color:#ffffff;
+				}
+
+.re-panel{
+	height:500px;  
+	overflow-y:scroll;
+				}
+.doc-box{}
+.filterbox
+{
+  width:30px;;
+  height:400px;
+}
+.displaybox
+{
+  width:900px;
+}
+ div h3 .ui-slider-track{display:none!important;}
+ div p .ui-slider{
+ }
+ .displayinline{
+   display: inline-block;
+ }
+ .clearFloat{clear: both;}
+ p #slider{
+   margin:0 0 -10px  10px;
+ 
+ }
+ .choice{
+   width: 200px;
+   
+ }
+ .course{
+   width: 700px;
+ }
+ .noud{
+   text-decoration: none;
+ }
+ 

@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by Administrator (EMBRACE) -->
+<dataroot generated="2006-01-23T22:08:26">
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq1</qID>
+		<qText>In semiconductors like silicon, the unit cell is</qText>
+		<option1>a simple cube</option1>
+		<option2>body-centered cube</option2>
+		<option3>hexagonal</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq2</qID>
+		<qText>The maximum number of electrons which the N-shell of an atom can contain is</qText>
+		<option1>32</option1>
+		<option2>18</option2>
+		<option3>8</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq3</qID>
+		<qText>The maximum number of electrons in the shell preceding the valence shell cannot exceed</qText>
+		<option1>32</option1>
+		<option2>8</option2>
+		<option3>8</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq4</qID>
+		<qText>Electronic distribution of an Si atom is</qText>
+		<option1>2,10,2</option1>
+		<option2>2,8,4</option2>
+		<option3>2,7,5               </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq5</qID>
+		<qText>The electrons in the atom of an element which determine its electrical and chemical properties are called .....electrons.</qText>
+		<option1>valence</option1>
+		<option2>excess</option2>
+		<option3>revolving </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq6</qID>
+		<qText>Silicon has Z = 14. Its outermost orbit is</qText>
+		<option1>partially filled</option1>
+		<option2>half filled</option2>
+		<option3>completely occupied</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq7</qID>
+		<qText>Semiconductor materials have .................bonds.</qText>
+		<option1>ionic</option1>
+		<option2>covalent</option2>
+		<option3>mutual </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq8</qID>
+		<qText>Major part of the current in an intrinsic semiconductor is due to</qText>
+		<option1>conduction-band electrons</option1>
+		<option2>valence-band electrons</option2>
+		<option3>holes in the valence band</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq9</qID>
+		<qText>Conduction electrons have more mobility than holes because they</qText>
+		<option1>are lighter</option1>
+		<option2>experience collisions less frequently</option2>
+		<option3>need less energy to move them</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq10</qID>
+		<qText>There is no hole current in good conductors because they</qText>
+		<option1>have overlapping valence and conduction bands</option1>
+		<option2>have large forbidden energy gap</option2>
+		<option3>have no valence band</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq11</qID>
+		<qText>In an N-type semiconductor, there are</qText>
+		<option1>no minority carriers</option1>
+		<option2>immobile negative ions</option2>
+		<option3>immobile positive ions</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq12</qID>
+		<qText>Doping materials are called impurities because they</qText>
+		<option1>alter the crystal structure of the pure semiconductors</option1>
+		<option2> make semiconductors less than 100 per cent pure</option2>
+		<option3>decrease the number of charge carriers</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq13</qID>
+		<qText>When germanium crystal is doped with phosphorus atoms, it becomes</qText>
+		<option1>N-type semiconductor</option1>
+		<option2>P-type semiconductor</option2>
+		<option3>photo-transistor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq14</qID>
+		<qText>In an P-type semiconductor material, majority carrier are</qText>
+		<option1>holes</option1>
+		<option2>electrons         </option2>
+		<option3>ions    </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq15</qID>
+		<qText>Electrons existing in the outermost s of an atom are called</qText>
+		<option1>stabilizing electrons</option1>
+		<option2>valence electrons</option2>
+		<option3>acceptors</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq16</qID>
+		<qText>The uppermost band is the</qText>
+		<option1>conduction band</option1>
+		<option2>Valence band</option2>
+		<option3>Forbidden band</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq17</qID>
+		<qText>The depletion region of a P-N junction is formed</qText>
+		<option1>during the manufacturing process</option1>
+		<option2>when forward bias is applied to it</option2>
+		<option3>under reverse bias</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq18</qID>
+		<qText>The width of the depletion layer of a junction</qText>
+		<option1>decreases with light doping</option1>
+		<option2> is increased under reverse bias</option2>
+		<option3>increases with heavy doping</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq19</qID>
+		<qText>Point out the WRONG statement. Barrier potential of a P-N junction is a function of</qText>
+		<option1>diode design     </option1>
+		<option2>forward bias</option2>
+		<option3>temperature </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq20</qID>
+		<qText>The width of the depletion region of an unbiased P-N junction is about a few</qText>
+		<option1>Micrometer</option1>
+		<option2>Millimeter</option2>
+		<option3>Centimeter</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq21</qID>
+		<qText>Zener breakdown occurs</qText>
+		<option1>mostly in germanium junctions</option1>
+		<option2>due to rupture of covalent bonds</option2>
+		<option3>in lightly-doped junctions</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq22</qID>
+		<qText>Avalanche breakdown is primarily dependent on the phenomenon of</qText>
+		<option1>collision </option1>
+		<option2>doping</option2>
+		<option3>ionization  </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq23</qID>
+		<qText>Reverse current in a silicon junction nearly doubles for every ............°C rise in temperature.</qText>
+		<option1>10</option1>
+		<option2>2</option2>
+		<option3>6</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq24</qID>
+		<qText>Diffusion capacitance of a P-N junction </qText>
+		<option1>less than its transition capacitance</option1>
+		<option2>essential for the design of varactors</option2>
+		<option3>problem for devices which are required to switch rapidly from forward to reverse bias</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq25</qID>
+		<qText>The depletion region of a semiconductor diode is due to</qText>
+		<option1>absence of current carriers</option1>
+		<option2>reverse-biasing</option2>
+		<option3>forward-biasing</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq26</qID>
+		<qText>When a P-N junction of a diode is forward-biased, diffusion current causes</qText>
+		<option1>covalent bonding</option1>
+		<option2>forward-biasing</option2>
+		<option3>establishment of barrier potential</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq27</qID>
+		<qText>The leakage current of semiconductor diode is caused by</qText>
+		<option1>chemical energy</option1>
+		<option2>barrier voltage</option2>
+		<option3>heat energy</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq28</qID>
+		<qText>An SC diode has -1.5 V on its anode and -2,5 on its cathode. The diode is</qText>
+		<option1>conducting</option1>
+		<option2>hot conducting</option2>
+		<option3>reverse biased</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq29</qID>
+		<qText>A general purpose diode is more likely to suffer avalanche breakdown rather than Zener breakdown because</qText>
+		<option1>its leakage current is small</option1>
+		<option2>it has weak covalent bonds</option2>
+		<option3> it is lightly-doped</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq30</qID>
+		<qText>The turn-on voltage of a Ge junction diode is nearly-volt.</qText>
+		<option1>0.7</option1>
+		<option2>0.3</option2>
+		<option3>0.1</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq31</qID>
+		<qText>The peak inverse voltage PIV is the maximum reverse voltage that can be applied to a diode without</qText>
+		<option1>burnout </option1>
+		<option2>destruction</option2>
+		<option3>overheating </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq32</qID>
+		<qText>Leakage current of a junction diode</qText>
+		<option1>decreases with temperature</option1>
+		<option2> is due to majority carriers</option2>
+		<option3>is in the range of mA or u,A</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq33</qID>
+		<qText>In the forward region of its characteristic, a diode appears as </qText>
+		<option1>an OFF switch</option1>
+		<option2>an ON switch</option2>
+		<option3>a capacitor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq34</qID>
+		<qText>Under small signal operation of a diode</qText>
+		<option1>its bulk resistance increases</option1>
+		<option2> its junction resistance predominates</option2>
+		<option3>it acts like a closed switch</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq35</qID>
+		<qText>Which of the following junction has least junction capacitance?</qText>
+		<option1>alloy </option1>
+		<option2>grown</option2>
+		<option3>point contact</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq36</qID>
+		<qText>A FET consists of a</qText>
+		<option1>source </option1>
+		<option2>drain</option2>
+		<option3> all </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq37</qID>
+		<qText>For small values of Base-source voltage  JFET behaves like a </qText>
+		<option1>resistor</option1>
+		<option2>constant-voltage source</option2>
+		<option3>negative resistance</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq38</qID>
+		<qText>In a JFET, the primary control on drain current is exerted by</qText>
+		<option1>reverse bias</option1>
+		<option2>size of depletion regions</option2>
+		<option3>channel-resistance</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq39</qID>
+		<qText>The value of Zener current is</qText>
+		<option1>limited by external circuit resistance</option1>
+		<option2> determined by Zener voltage</option2>
+		<option3>totally independent of temperature </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq40</qID>
+		<qText>When used in a circuit, the Zener diode is always</qText>
+		<option1>forward-biased</option1>
+		<option2>connected in series</option2>
+		<option3>reverse biased</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq41</qID>
+		<qText>Once a Zener diode goes into breakdown, its............. does not change much.</qText>
+		<option1>voltage</option1>
+		<option2>current</option2>
+		<option3>dynamic impedance</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq42</qID>
+		<qText>The main reason why electrons can tunnel through a P-N junction is that</qText>
+		<option1>they have high energy</option1>
+		<option2> barrier potential is very low</option2>
+		<option3>depletion layer is extremely thin</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq43</qID>
+		<qText>A tunnel diode is always biased</qText>
+		<option1>by dc source</option1>
+		<option2> in the middle of its negative resistance region</option2>
+		<option3>in the positive-resistance region nearest zero</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq44</qID>
+		<qText>The capacitance of a varactor diode can be changed by</qText>
+		<option1>increasing its doping level </option1>
+		<option2>changing its forward bias</option2>
+		<option3>changing the barrier potential.</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq45</qID>
+		<qText>A PIN diode is frequently used as a</qText>
+		<option1>peak clipper</option1>
+		<option2>voltage regulator</option2>
+		<option3>switching diode for frequencies uptoGHz range</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq46</qID>
+		<qText>A step-recovery diode</qText>
+		<option1>has an extremely short recovery time</option1>
+		<option2>conducts equally well in both directions</option2>
+		<option3>is mainly used as a harmonic generator</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq47</qID>
+		<qText>A semiconductor device that resembles a voltage variable capacitor is known as ........... diode.</qText>
+		<option1>tunnel</option1>
+		<option2>varactor</option2>
+		<option3>Schottky                 </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq48</qID>
+		<qText>A semiconductor device that has only high energy electrons carriers is called............... diode.</qText>
+		<option1>tunnel</option1>
+		<option2>varactor</option2>
+		<option3>Schottky                 </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq49</qID>
+		<qText>A semiconductor device that has an intrinsic material between P and N materials is called................ diode.</qText>
+		<option1>Schottky</option1>
+		<option2>IMPATT</option2>
+		<option3>PIN</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq50</qID>
+		<qText>A semiconductor that operates in avalanche region is called the ............ diode.</qText>
+		<option1>gunn</option1>
+		<option2>IMPATT  </option2>
+		<option3> Schottky</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq51</qID>
+		<qText>When the reverse bias voltage of a varactor increases, its</qText>
+		<option1>depletion region decreases</option1>
+		<option2>capacitance decreases</option2>
+		<option3>leakage current increases</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq52</qID>
+		<qText>A semiconductor device which operates with a forward biased metal semiconductor junction is called............. diode.</qText>
+		<option1>Schottky</option1>
+		<option2>IMPATT</option2>
+		<option3>PIN</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq53</qID>
+		<qText>The color of the light emitted by LED depends on </qText>
+		<option1>The type of semiconductor material used </option1>
+		<option2>its forward bias </option2>
+		<option3>its reverse bias</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq54</qID>
+		<qText>Bulk tube photoconductive cells have </qText>
+		<option1>wide spectral response</option1>
+		<option2>small response time</option2>
+		<option3>high dark-t-light resistance ratio</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq55</qID>
+		<qText>Silicon is invariably used in the manufacturing of junction photodiodes because</qText>
+		<option1>more electron-hole pairs are generated in it</option1>
+		<option2>its thermally-generated minority current is extremely small</option2>
+		<option3>it needs less reverse bias </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq56</qID>
+		<qText>A pin photodiode has ultra fast response primarily due to</qText>
+		<option1>the presence of middle I-layer</option1>
+		<option2>heavy doping of P and N regions</option2>
+		<option3>its wide spectral response</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq57</qID>
+		<qText>The emitter of a transistor is generally doped the heaviest because it</qText>
+		<option1>has to dissipate maximum power</option1>
+		<option2>has to supply the charge carriers</option2>
+		<option3>is the first region of the transistor </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq58</qID>
+		<qText>For proper working of a transistor in normal circuits</qText>
+		<option1>EBJ is reverse-biased, CBJ forward-biased</option1>
+		<option2>CBJ is reverse-biased, EBJ is forward-biased</option2>
+		<option3>EBJ is forward-biased, CBJ is forward-biased</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq59</qID>
+		<qText>In a properly-biased NPN transistor, most of the electrons from the emitter </qText>
+		<option1>recombine with holes in the base </option1>
+		<option2>recombine in the emitter itself</option2>
+		<option3>pass through the base to the collector</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq60</qID>
+		<qText>When the E/B junction of a transistor is reverse-biased, collector current</qText>
+		<option1>is reversed</option1>
+		<option2>stops</option2>
+		<option3>increases</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq61</qID>
+		<qText>The EBJ of a given transistor is forward-biased and its CBJ reverse-biased. If the base current is increased, then its</qText>
+		<option1>IC will decrease</option1>
+		<option2>VCE will increase</option2>
+		<option3>IC will increase</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq62</qID>
+		<qText>First integrated circuit chip was developed by</qText>
+		<option1>C.V. Raman</option1>
+		<option2>W.H. Brattain</option2>
+		<option3>J.S. Kilby</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq63</qID>
+		<qText>An integrated circuit is </qText>
+		<option1>a complicated circuit</option1>
+		<option2>an integrating device</option2>
+		<option3>fabricated on a tiny silicon chip</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq64</qID>
+		<qText>Most important advantage of an IC is its</qText>
+		<option1>easy replacement in case of circuit failure</option1>
+		<option2>extremely high reliability </option2>
+		<option3>reduced cost</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq65</qID>
+		<qText>In monolithic Ics, all components are fabricated by …… process</qText>
+		<option1>evaporation</option1>
+		<option2>sputtering</option2>
+		<option3>diffusion</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq66</qID>
+		<qText>Monolithic Ics are fabricated with in a</qText>
+		<option1>soft stone</option1>
+		<option2>single stone</option2>
+		<option3>silicon layer</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq67</qID>
+		<qText>Monolithic technique is ideally suited for fabricating ….Ics</qText>
+		<option1>thin-film</option1>
+		<option2>digital</option2>
+		<option3>linear</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq68</qID>
+		<qText>In the context of IC fabrication, metallisation means</qText>
+		<option1>connecting metallic wires</option1>
+		<option2>forming interconnecting conduction pattern and bonding pads</option2>
+		<option3>depositing SiO2 layer</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq69</qID>
+		<qText>The major component of a MOS IC is an</qText>
+		<option1>FET</option1>
+		<option2>MOSFET</option2>
+		<option3>Bipolar</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq70</qID>
+		<qText>The three terminal of a bipolar junction transistor are called </qText>
+		<option1>PNP</option1>
+		<option2>NPN</option2>
+		<option3>base, emitter, collector</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq71</qID>
+		<qText>In pnp transistor, the p-region are</qText>
+		<option1>base and emitter</option1>
+		<option2>base and collector</option2>
+		<option3>emitter and collector</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq72</qID>
+		<qText>For operation as an amplifier, the base of an npn transistor must be </qText>
+		<option1>positive with respective to the emitter</option1>
+		<option2>negative with respective to the emitter</option2>
+		<option3>0 v</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq73</qID>
+		<qText>The emitter current is always </qText>
+		<option1>greater than the base current</option1>
+		<option2>greater than the collector current</option2>
+		<option3>Both</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq74</qID>
+		<qText>if Ic is 50 times larger than IB,then beta DC is</qText>
+		<option1>0.02</option1>
+		<option2>100</option2>
+		<option3>500</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq75</qID>
+		<qText>The bias condition for a transistor to be used as a linear amplifier is called</qText>
+		<option1>forward-bias</option1>
+		<option2>reverse-reverse</option2>
+		<option3>forward-forward</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq76</qID>
+		<qText>If the output of a transistor amplifier is 5 v rms and the input is 100m V rms, the voltage gain is </qText>
+		<option1>5</option1>
+		<option2>500</option2>
+		<option3>50</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq77</qID>
+		<qText>When operated in cutoff and saturation, the transistor acts like</qText>
+		<option1>a linear amplifier</option1>
+		<option2>a switch</option2>
+		<option3>a variable capacitor</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq78</qID>
+		<qText>In saturation, VCE is </qText>
+		<option1>0.7 v </option1>
+		<option2>equal to Vcc </option2>
+		<option3>minimum</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq79</qID>
+		<qText>one in saturation, a further increase in base current will</qText>
+		<option1>cause the collector current o increase</option1>
+		<option2>not affect the collector current</option2>
+		<option3>turns the transistor off</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq80</qID>
+		<qText>If the base-emitter junction is open, the collector voltage is</qText>
+		<option1>Vcc</option1>
+		<option2>0v</option2>
+		<option3>floating</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq81</qID>
+		<qText>Every known element has</qText>
+		<option1>the same type of atoms </option1>
+		<option2>the same number of atoms</option2>
+		<option3>a unique type of atom        </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq82</qID>
+		<qText>The nucleus of an atom is made up of </qText>
+		<option1>protons and neutrons       </option1>
+		<option2> electrons </option2>
+		<option3> electrons and protons   </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq83</qID>
+		<qText>The atomic number of silicon is </qText>
+		<option1>8</option1>
+		<option2>2</option2>
+		<option3>14</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq84</qID>
+		<qText>A positive ion is formed when </qText>
+		<option1>a valence electron breaks away from the atom</option1>
+		<option2> there are more holes than electrons in the outer orbit</option2>
+		<option3> two atoms bond together</option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq85</qID>
+		<qText>The most widely used semiconductive material  electronic devices is </qText>
+		<option1>germanium       </option1>
+		<option2>carbon    </option2>
+		<option3>Silicon</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq86</qID>
+		<qText>Recombination is when</qText>
+		<option1>an electron falls into a hole</option1>
+		<option2>a positive and a negative ion bond together</option2>
+		<option3>a valence electron becomes a conduction electron   </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq87</qID>
+		<qText>In a semiconductor crystal, the atoms are held together by</qText>
+		<option1>the interaction of valence electrons       </option1>
+		<option2>forces of attraction</option2>
+		<option3>Both</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq88</qID>
+		<qText>Each atom in a silicon crystal has</qText>
+		<option1>four valence electrons</option1>
+		<option2>four conduction electrons</option2>
+		<option3>eight valence electrons, four of its own and four shared</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq89</qID>
+		<qText>The current in a semiconductor is produced by </qText>
+		<option1>electrons only     </option1>
+		<option2>holes only       </option2>
+		<option3>both electrons and holes</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq90</qID>
+		<qText>The difference between an insulator and a semiconductor is</qText>
+		<option1>a wider energy gap between the valence band and the conduction band</option1>
+		<option2>the number of free electrons</option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq91</qID>
+		<qText>A trivalent impurity is added to silicon to create</qText>
+		<option1>germanium </option1>
+		<option2>a p-type semiconductor</option2>
+		<option3>an n-type semiconductor   </option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq92</qID>
+		<qText>The majority carriers in an o-type semiconductor are</qText>
+		<option1>holes     </option1>
+		<option2>valence electrons   </option2>
+		<option3> conduction electrons   </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq93</qID>
+		<qText>A pnjunction is formed by </qText>
+		<option1>the recombination of electrons and holes</option1>
+		<option2>ionization</option2>
+		<option3>the boundary of ap-type and an n-type </option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq94</qID>
+		<qText>The depletion region is created by </qText>
+		<option1>ionization     </option1>
+		<option2>diffusion       </option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq95</qID>
+		<qText>The depletion region consists of</qText>
+		<option1>nothing but minority carriers       </option1>
+		<option2>no majority carriers </option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq96</qID>
+		<qText>To forward-bias a diode,</qText>
+		<option1>an external voltage is applied that is positive at (he anode and negative at the cathode</option1>
+		<option2>an external voltage is applied that is positive at the p region and negative at the n region</option2>
+		<option3>both a and b</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq97</qID>
+		<qText>When a diode is forward-biased,</qText>
+		<option1>the only current is hole current,</option1>
+		<option2>the current is produced by both holes and electrons</option2>
+		<option3>the only current is electron current</option3>
+		<correctAns>2</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq98</qID>
+		<qText>When forward-biased, a diode</qText>
+		<option1>drops a large voltage</option1>
+		<option2>blocks current </option2>
+		<option3>has a high resistance       </option3>
+		<correctAns>1</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq99</qID>
+		<qText>For a silicon diode, the value of the forward-bias voltage typically</qText>
+		<option1>must be greater than 0.3 V </option1>
+		<option2>depends on the width of the depletion region</option2>
+		<option3>must be greater than 0.7 V</option3>
+		<correctAns>3</correctAns>
+	</question>
+	<question>
+		<catName>Basic Electronics</catName>
+		<catID>be</catID>
+		<qID>beq100</qID>
+		<qText>Although current is blocked in reverse bias,</qText>
+		<option1>there is some current due to majority carriers</option1>
+		<option2>there is a very small current due to minority carriers</option2>
+		<option3>there is an avalanche current 30. </option3>
+		<correctAns>2</correctAns>
+	</question>
+</dataroot>
